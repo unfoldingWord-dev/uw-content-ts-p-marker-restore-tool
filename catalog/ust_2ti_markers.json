@@ -1,0 +1,177 @@
+{
+ "resource": "ust",
+ "book": "2TI",
+ "file": "56-2TI.usfm",
+ "generated": "2026-09-23",
+ "baseline_commits": {
+  "current": {
+   "date": "2026-09-23T17:30:43-04:00",
+   "author": "Richard Mahn",
+   "subject": "current working file (HEAD f8fa4f0a5)",
+   "chapters": [
+    1,
+    2,
+    3,
+    4
+   ]
+  }
+ },
+ "chapter_baselines": {
+  "1": "current",
+  "2": "current",
+  "3": "current",
+  "4": "current"
+ },
+ "chapters_restored_from_history": [],
+ "chapters_checked_ok": [],
+ "ts_override": null,
+ "counts": {
+  "ts": 30,
+  "p": 25,
+  "m": 0
+ },
+ "markers": {
+  "1:1": [
+   "ts",
+   "p"
+  ],
+  "1:2": [
+   "p"
+  ],
+  "1:2c": [
+   "p"
+  ],
+  "1:3": [
+   "ts",
+   "p"
+  ],
+  "1:6": [
+   "ts",
+   "p"
+  ],
+  "1:8": [
+   "ts"
+  ],
+  "1:12": [
+   "ts"
+  ],
+  "1:13": [
+   "p"
+  ],
+  "1:15": [
+   "ts",
+   "p"
+  ],
+  "1:16": [
+   "p"
+  ],
+  "2:1": [
+   "ts",
+   "p"
+  ],
+  "2:3": [
+   "ts"
+  ],
+  "2:6": [
+   "ts"
+  ],
+  "2:8": [
+   "ts",
+   "p"
+  ],
+  "2:11": [
+   "ts",
+   "p"
+  ],
+  "2:14": [
+   "ts",
+   "p"
+  ],
+  "2:16": [
+   "ts"
+  ],
+  "2:19": [
+   "ts"
+  ],
+  "2:20": [
+   "p"
+  ],
+  "2:22": [
+   "ts",
+   "p"
+  ],
+  "2:24": [
+   "ts"
+  ],
+  "3:1": [
+   "ts",
+   "p"
+  ],
+  "3:5": [
+   "ts"
+  ],
+  "3:6": [
+   "p"
+  ],
+  "3:8": [
+   "ts"
+  ],
+  "3:10": [
+   "ts",
+   "p"
+  ],
+  "3:14": [
+   "ts"
+  ],
+  "3:16": [
+   "ts",
+   "p"
+  ],
+  "4:1": [
+   "ts",
+   "p"
+  ],
+  "4:3": [
+   "ts"
+  ],
+  "4:6": [
+   "ts",
+   "p"
+  ],
+  "4:9": [
+   "ts",
+   "p"
+  ],
+  "4:11": [
+   "ts"
+  ],
+  "4:14": [
+   "ts",
+   "p"
+  ],
+  "4:16": [
+   "p"
+  ],
+  "4:17": [
+   "ts"
+  ],
+  "4:19": [
+   "ts",
+   "p"
+  ],
+  "4:22": [
+   "p"
+  ]
+ },
+ "anchors": {
+  "1:2c": {
+   "after_punct": ".",
+   "before": "if you were my own son.",
+   "after": "{May} God the Father and Jesus"
+  }
+ },
+ "baseline_poetry_verses": [
+  "2:12",
+  "2:13"
+ ]
+}

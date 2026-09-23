@@ -1,0 +1,2191 @@
+{
+ "resource": "ult",
+ "book": "2SA",
+ "file": "10-2SA.usfm",
+ "generated": "2026-09-23",
+ "baseline_commits": {
+  "current": {
+   "date": "2026-09-23T17:30:53-04:00",
+   "author": "Richard Mahn",
+   "subject": "current working file (HEAD b32e8ffa9)",
+   "chapters": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24
+   ]
+  }
+ },
+ "chapter_baselines": {
+  "1": "current",
+  "2": "current",
+  "3": "current",
+  "4": "current",
+  "5": "current",
+  "6": "current",
+  "7": "current",
+  "8": "current",
+  "9": "current",
+  "10": "current",
+  "11": "current",
+  "12": "current",
+  "13": "current",
+  "14": "current",
+  "15": "current",
+  "16": "current",
+  "17": "current",
+  "18": "current",
+  "19": "current",
+  "20": "current",
+  "21": "current",
+  "22": "current",
+  "23": "current",
+  "24": "current"
+ },
+ "chapters_restored_from_history": [],
+ "chapters_checked_ok": [],
+ "ts_override": null,
+ "counts": {
+  "ts": 455,
+  "p": 413,
+  "m": 0
+ },
+ "markers": {
+  "1:1": [
+   "ts",
+   "p"
+  ],
+  "1:3": [
+   "ts",
+   "p"
+  ],
+  "1:3c": [
+   "ts",
+   "p"
+  ],
+  "1:4": [
+   "ts",
+   "p"
+  ],
+  "1:4d": [
+   "ts",
+   "p"
+  ],
+  "1:5": [
+   "ts"
+  ],
+  "1:6": [
+   "ts",
+   "p"
+  ],
+  "1:8": [
+   "ts",
+   "p"
+  ],
+  "1:8c": [
+   "ts",
+   "p"
+  ],
+  "1:9": [
+   "ts",
+   "p"
+  ],
+  "1:10": [
+   "ts",
+   "p"
+  ],
+  "1:11": [
+   "ts",
+   "p"
+  ],
+  "1:13": [
+   "ts",
+   "p"
+  ],
+  "1:13c": [
+   "ts",
+   "p"
+  ],
+  "1:14": [
+   "ts",
+   "p"
+  ],
+  "1:15": [
+   "ts",
+   "p"
+  ],
+  "1:17": [
+   "ts",
+   "p"
+  ],
+  "1:19": [
+   "ts",
+   "p"
+  ],
+  "1:19b": [
+   "ts",
+   "p"
+  ],
+  "1:21": [
+   "ts",
+   "p"
+  ],
+  "1:22": [
+   "ts",
+   "p"
+  ],
+  "1:23b": [
+   "ts",
+   "p"
+  ],
+  "1:25": [
+   "ts",
+   "p"
+  ],
+  "1:26c": [
+   "ts",
+   "p"
+  ],
+  "2:1": [
+   "ts",
+   "p"
+  ],
+  "2:1c": [
+   "ts",
+   "p"
+  ],
+  "2:1e": [
+   "ts",
+   "p"
+  ],
+  "2:1g": [
+   "ts",
+   "p"
+  ],
+  "2:2": [
+   "ts",
+   "p"
+  ],
+  "2:4": [
+   "ts"
+  ],
+  "2:4b": [
+   "ts",
+   "p"
+  ],
+  "2:5": [
+   "ts",
+   "p"
+  ],
+  "2:6": [
+   "ts"
+  ],
+  "2:8": [
+   "ts",
+   "p"
+  ],
+  "2:10": [
+   "ts",
+   "p"
+  ],
+  "2:12": [
+   "ts",
+   "p"
+  ],
+  "2:14": [
+   "ts",
+   "p"
+  ],
+  "2:14c": [
+   "ts",
+   "p"
+  ],
+  "2:15": [
+   "ts",
+   "p"
+  ],
+  "2:16": [
+   "ts"
+  ],
+  "2:17": [
+   "ts",
+   "p"
+  ],
+  "2:18": [
+   "ts",
+   "p"
+  ],
+  "2:20c": [
+   "ts",
+   "p"
+  ],
+  "2:21": [
+   "ts",
+   "p"
+  ],
+  "2:22": [
+   "ts",
+   "p"
+  ],
+  "2:23": [
+   "ts",
+   "p"
+  ],
+  "2:24": [
+   "ts",
+   "p"
+  ],
+  "2:26": [
+   "ts",
+   "p"
+  ],
+  "2:27": [
+   "ts",
+   "p"
+  ],
+  "2:28": [
+   "ts",
+   "p"
+  ],
+  "2:29": [
+   "ts",
+   "p"
+  ],
+  "2:30": [
+   "ts",
+   "p"
+  ],
+  "3:1": [
+   "ts",
+   "p"
+  ],
+  "3:2": [
+   "ts",
+   "p"
+  ],
+  "3:2b": [
+   "ts",
+   "p"
+  ],
+  "3:3": [
+   "ts",
+   "p"
+  ],
+  "3:3b": [
+   "ts",
+   "p"
+  ],
+  "3:4": [
+   "ts",
+   "p"
+  ],
+  "3:4b": [
+   "ts",
+   "p"
+  ],
+  "3:5": [
+   "ts",
+   "p"
+  ],
+  "3:5b": [
+   "ts",
+   "p"
+  ],
+  "3:6": [
+   "ts",
+   "p"
+  ],
+  "3:8": [
+   "ts",
+   "p"
+  ],
+  "3:9": [
+   "ts"
+  ],
+  "3:12": [
+   "ts",
+   "p"
+  ],
+  "3:13": [
+   "ts",
+   "p"
+  ],
+  "3:15": [
+   "ts",
+   "p"
+  ],
+  "3:17": [
+   "ts",
+   "p"
+  ],
+  "3:19": [
+   "ts",
+   "p"
+  ],
+  "3:21": [
+   "ts"
+  ],
+  "3:22": [
+   "ts",
+   "p"
+  ],
+  "3:24": [
+   "ts",
+   "p"
+  ],
+  "3:26": [
+   "ts",
+   "p"
+  ],
+  "3:28": [
+   "ts",
+   "p"
+  ],
+  "3:30": [
+   "ts",
+   "p"
+  ],
+  "3:31": [
+   "ts",
+   "p"
+  ],
+  "3:33": [
+   "ts",
+   "p"
+  ],
+  "3:34c": [
+   "ts",
+   "p"
+  ],
+  "3:36": [
+   "ts",
+   "p"
+  ],
+  "3:38": [
+   "ts",
+   "p"
+  ],
+  "4:1": [
+   "ts",
+   "p"
+  ],
+  "4:4": [
+   "ts",
+   "p"
+  ],
+  "4:5": [
+   "ts",
+   "p"
+  ],
+  "4:7": [
+   "ts",
+   "p"
+  ],
+  "4:8": [
+   "ts"
+  ],
+  "4:9": [
+   "ts",
+   "p"
+  ],
+  "4:11": [
+   "ts"
+  ],
+  "4:12": [
+   "ts",
+   "p"
+  ],
+  "5:1": [
+   "ts",
+   "p"
+  ],
+  "5:3": [
+   "ts",
+   "p"
+  ],
+  "5:4": [
+   "ts",
+   "p"
+  ],
+  "5:6": [
+   "ts",
+   "p"
+  ],
+  "5:8": [
+   "ts",
+   "p"
+  ],
+  "5:9": [
+   "ts",
+   "p"
+  ],
+  "5:11": [
+   "ts",
+   "p"
+  ],
+  "5:13": [
+   "ts",
+   "p"
+  ],
+  "5:17": [
+   "ts",
+   "p"
+  ],
+  "5:19": [
+   "ts"
+  ],
+  "5:19d": [
+   "ts",
+   "p"
+  ],
+  "5:20": [
+   "ts",
+   "p"
+  ],
+  "5:22": [
+   "ts",
+   "p"
+  ],
+  "5:24": [
+   "ts"
+  ],
+  "6:1": [
+   "ts",
+   "p"
+  ],
+  "6:3": [
+   "ts"
+  ],
+  "6:6": [
+   "ts",
+   "p"
+  ],
+  "6:8": [
+   "ts",
+   "p"
+  ],
+  "6:9": [
+   "ts",
+   "p"
+  ],
+  "6:10": [
+   "ts"
+  ],
+  "6:12": [
+   "ts",
+   "p"
+  ],
+  "6:14": [
+   "ts"
+  ],
+  "6:16": [
+   "ts",
+   "p"
+  ],
+  "6:17": [
+   "ts",
+   "p"
+  ],
+  "6:18": [
+   "ts"
+  ],
+  "6:20": [
+   "ts",
+   "p"
+  ],
+  "6:21": [
+   "ts",
+   "p"
+  ],
+  "6:23": [
+   "ts",
+   "p"
+  ],
+  "7:1": [
+   "ts",
+   "p"
+  ],
+  "7:3": [
+   "ts",
+   "p"
+  ],
+  "7:4": [
+   "ts",
+   "p"
+  ],
+  "7:5": [
+   "ts",
+   "p"
+  ],
+  "7:6": [
+   "ts"
+  ],
+  "7:8": [
+   "ts",
+   "p"
+  ],
+  "7:10": [
+   "ts"
+  ],
+  "7:11b": [
+   "ts",
+   "p"
+  ],
+  "7:15": [
+   "ts"
+  ],
+  "7:17": [
+   "ts",
+   "p"
+  ],
+  "7:18": [
+   "ts",
+   "p"
+  ],
+  "7:20": [
+   "ts",
+   "p"
+  ],
+  "7:21": [
+   "ts"
+  ],
+  "7:22": [
+   "ts",
+   "p"
+  ],
+  "7:24": [
+   "ts"
+  ],
+  "7:25": [
+   "ts",
+   "p"
+  ],
+  "7:27": [
+   "ts",
+   "p"
+  ],
+  "8:1": [
+   "ts",
+   "p"
+  ],
+  "8:2": [
+   "ts",
+   "p"
+  ],
+  "8:3": [
+   "ts",
+   "p"
+  ],
+  "8:5": [
+   "ts",
+   "p"
+  ],
+  "8:7": [
+   "ts",
+   "p"
+  ],
+  "8:9": [
+   "ts",
+   "p"
+  ],
+  "8:11": [
+   "ts",
+   "p"
+  ],
+  "8:13": [
+   "ts",
+   "p"
+  ],
+  "8:14": [
+   "ts",
+   "p"
+  ],
+  "8:15": [
+   "ts",
+   "p"
+  ],
+  "9:1": [
+   "ts",
+   "p"
+  ],
+  "9:2": [
+   "ts",
+   "p"
+  ],
+  "9:2e": [
+   "ts",
+   "p"
+  ],
+  "9:3": [
+   "ts",
+   "p"
+  ],
+  "9:3c": [
+   "ts",
+   "p"
+  ],
+  "9:4": [
+   "ts",
+   "p"
+  ],
+  "9:4c": [
+   "ts",
+   "p"
+  ],
+  "9:5": [
+   "ts",
+   "p"
+  ],
+  "9:6": [
+   "ts",
+   "p"
+  ],
+  "9:6b": [
+   "ts",
+   "p"
+  ],
+  "9:6d": [
+   "ts",
+   "p"
+  ],
+  "9:7": [
+   "ts",
+   "p"
+  ],
+  "9:8": [
+   "ts",
+   "p"
+  ],
+  "9:9": [
+   "ts",
+   "p"
+  ],
+  "9:11": [
+   "ts",
+   "p"
+  ],
+  "9:12": [
+   "ts",
+   "p"
+  ],
+  "10:1": [
+   "ts",
+   "p"
+  ],
+  "10:2d": [
+   "ts",
+   "p"
+  ],
+  "10:5": [
+   "ts",
+   "p"
+  ],
+  "10:6": [
+   "ts",
+   "p"
+  ],
+  "10:7": [
+   "ts",
+   "p"
+  ],
+  "10:9": [
+   "ts",
+   "p"
+  ],
+  "10:11": [
+   "ts"
+  ],
+  "10:13": [
+   "ts",
+   "p"
+  ],
+  "10:15": [
+   "ts",
+   "p"
+  ],
+  "10:17": [
+   "ts",
+   "p"
+  ],
+  "10:19b": [
+   "ts",
+   "p"
+  ],
+  "11:1": [
+   "ts",
+   "p"
+  ],
+  "11:2": [
+   "ts",
+   "p"
+  ],
+  "11:6": [
+   "ts",
+   "p"
+  ],
+  "11:9": [
+   "ts"
+  ],
+  "11:10": [
+   "ts",
+   "p"
+  ],
+  "11:11": [
+   "ts",
+   "p"
+  ],
+  "11:12": [
+   "ts",
+   "p"
+  ],
+  "11:14": [
+   "ts",
+   "p"
+  ],
+  "11:16": [
+   "ts",
+   "p"
+  ],
+  "11:18": [
+   "ts",
+   "p"
+  ],
+  "11:21": [
+   "ts"
+  ],
+  "11:22": [
+   "ts",
+   "p"
+  ],
+  "11:24": [
+   "ts"
+  ],
+  "11:25": [
+   "ts",
+   "p"
+  ],
+  "11:26": [
+   "ts",
+   "p"
+  ],
+  "12:1": [
+   "ts",
+   "p"
+  ],
+  "12:4": [
+   "ts",
+   "p"
+  ],
+  "12:5": [
+   "ts",
+   "p"
+  ],
+  "12:7": [
+   "ts",
+   "p"
+  ],
+  "12:9": [
+   "ts"
+  ],
+  "12:11": [
+   "ts",
+   "p"
+  ],
+  "12:13": [
+   "ts",
+   "p"
+  ],
+  "12:13c": [
+   "ts",
+   "p"
+  ],
+  "12:15b": [
+   "ts",
+   "p"
+  ],
+  "12:18": [
+   "ts",
+   "p"
+  ],
+  "12:19": [
+   "ts",
+   "p"
+  ],
+  "12:19d": [
+   "ts",
+   "p"
+  ],
+  "12:20": [
+   "ts",
+   "p"
+  ],
+  "12:21": [
+   "ts",
+   "p"
+  ],
+  "12:22": [
+   "ts",
+   "p"
+  ],
+  "12:24": [
+   "ts",
+   "p"
+  ],
+  "12:26": [
+   "ts",
+   "p"
+  ],
+  "12:29": [
+   "ts",
+   "p"
+  ],
+  "12:31": [
+   "ts"
+  ],
+  "13:1": [
+   "ts",
+   "p"
+  ],
+  "13:2": [
+   "ts",
+   "p"
+  ],
+  "13:3": [
+   "ts",
+   "p"
+  ],
+  "13:4d": [
+   "ts",
+   "p"
+  ],
+  "13:5": [
+   "ts",
+   "p"
+  ],
+  "13:6": [
+   "ts",
+   "p"
+  ],
+  "13:7": [
+   "ts",
+   "p"
+  ],
+  "13:9b": [
+   "ts",
+   "p"
+  ],
+  "13:10": [
+   "ts",
+   "p"
+  ],
+  "13:12": [
+   "ts",
+   "p"
+  ],
+  "13:13": [
+   "ts"
+  ],
+  "13:15": [
+   "ts",
+   "p"
+  ],
+  "13:16": [
+   "ts",
+   "p"
+  ],
+  "13:16c": [
+   "ts",
+   "p"
+  ],
+  "13:18": [
+   "ts"
+  ],
+  "13:20": [
+   "ts",
+   "p"
+  ],
+  "13:21": [
+   "ts",
+   "p"
+  ],
+  "13:23": [
+   "ts",
+   "p"
+  ],
+  "13:25": [
+   "ts",
+   "p"
+  ],
+  "13:26": [
+   "ts",
+   "p"
+  ],
+  "13:26c": [
+   "ts",
+   "p"
+  ],
+  "13:28": [
+   "ts",
+   "p"
+  ],
+  "13:30": [
+   "ts",
+   "p"
+  ],
+  "13:32": [
+   "ts",
+   "p"
+  ],
+  "13:34": [
+   "ts",
+   "p"
+  ],
+  "13:35": [
+   "ts",
+   "p"
+  ],
+  "13:36": [
+   "ts",
+   "p"
+  ],
+  "13:37": [
+   "ts",
+   "p"
+  ],
+  "13:38": [
+   "ts",
+   "p"
+  ],
+  "14:1": [
+   "ts",
+   "p"
+  ],
+  "14:4": [
+   "ts",
+   "p"
+  ],
+  "14:5": [
+   "ts",
+   "p"
+  ],
+  "14:5c": [
+   "ts",
+   "p"
+  ],
+  "14:7": [
+   "ts"
+  ],
+  "14:8": [
+   "ts",
+   "p"
+  ],
+  "14:9": [
+   "ts",
+   "p"
+  ],
+  "14:10": [
+   "ts",
+   "p"
+  ],
+  "14:11": [
+   "ts",
+   "p"
+  ],
+  "14:11d": [
+   "ts",
+   "p"
+  ],
+  "14:12": [
+   "ts",
+   "p"
+  ],
+  "14:12c": [
+   "ts",
+   "p"
+  ],
+  "14:13": [
+   "ts",
+   "p"
+  ],
+  "14:15": [
+   "ts",
+   "p"
+  ],
+  "14:17": [
+   "ts",
+   "p"
+  ],
+  "14:18": [
+   "ts",
+   "p"
+  ],
+  "14:18c": [
+   "ts",
+   "p"
+  ],
+  "14:19": [
+   "ts",
+   "p"
+  ],
+  "14:19c": [
+   "ts",
+   "p"
+  ],
+  "14:21": [
+   "ts",
+   "p"
+  ],
+  "14:22": [
+   "ts",
+   "p"
+  ],
+  "14:23": [
+   "ts",
+   "p"
+  ],
+  "14:25": [
+   "ts",
+   "p"
+  ],
+  "14:27": [
+   "ts",
+   "p"
+  ],
+  "14:28": [
+   "ts",
+   "p"
+  ],
+  "14:30": [
+   "ts"
+  ],
+  "14:31": [
+   "ts",
+   "p"
+  ],
+  "14:32": [
+   "ts",
+   "p"
+  ],
+  "14:33": [
+   "ts",
+   "p"
+  ],
+  "15:1": [
+   "ts",
+   "p"
+  ],
+  "15:3": [
+   "ts"
+  ],
+  "15:5": [
+   "ts",
+   "p"
+  ],
+  "15:7": [
+   "ts",
+   "p"
+  ],
+  "15:9": [
+   "ts",
+   "p"
+  ],
+  "15:10": [
+   "ts",
+   "p"
+  ],
+  "15:11": [
+   "ts"
+  ],
+  "15:13": [
+   "ts",
+   "p"
+  ],
+  "15:14": [
+   "ts",
+   "p"
+  ],
+  "15:15": [
+   "ts",
+   "p"
+  ],
+  "15:16": [
+   "ts",
+   "p"
+  ],
+  "15:19": [
+   "ts",
+   "p"
+  ],
+  "15:21": [
+   "ts",
+   "p"
+  ],
+  "15:22": [
+   "ts",
+   "p"
+  ],
+  "15:23": [
+   "ts",
+   "p"
+  ],
+  "15:24": [
+   "ts",
+   "p"
+  ],
+  "15:25": [
+   "ts",
+   "p"
+  ],
+  "15:27": [
+   "ts",
+   "p"
+  ],
+  "15:30": [
+   "ts",
+   "p"
+  ],
+  "15:32": [
+   "ts",
+   "p"
+  ],
+  "15:35": [
+   "ts"
+  ],
+  "15:37": [
+   "ts",
+   "p"
+  ],
+  "16:1": [
+   "ts",
+   "p"
+  ],
+  "16:2": [
+   "ts",
+   "p"
+  ],
+  "16:2c": [
+   "ts",
+   "p"
+  ],
+  "16:3": [
+   "ts",
+   "p"
+  ],
+  "16:3c": [
+   "ts",
+   "p"
+  ],
+  "16:4": [
+   "ts",
+   "p"
+  ],
+  "16:4c": [
+   "ts",
+   "p"
+  ],
+  "16:5": [
+   "ts",
+   "p"
+  ],
+  "16:7": [
+   "ts"
+  ],
+  "16:9": [
+   "ts",
+   "p"
+  ],
+  "16:10": [
+   "ts",
+   "p"
+  ],
+  "16:11": [
+   "ts",
+   "p"
+  ],
+  "16:13": [
+   "ts",
+   "p"
+  ],
+  "16:15": [
+   "ts",
+   "p"
+  ],
+  "16:17": [
+   "ts",
+   "p"
+  ],
+  "16:18": [
+   "ts",
+   "p"
+  ],
+  "16:19": [
+   "ts"
+  ],
+  "16:20": [
+   "ts",
+   "p"
+  ],
+  "16:21": [
+   "ts",
+   "p"
+  ],
+  "16:22": [
+   "ts"
+  ],
+  "16:23": [
+   "ts",
+   "p"
+  ],
+  "17:1": [
+   "ts",
+   "p"
+  ],
+  "17:5": [
+   "ts",
+   "p"
+  ],
+  "17:7": [
+   "ts",
+   "p"
+  ],
+  "17:8": [
+   "ts"
+  ],
+  "17:11": [
+   "ts",
+   "p"
+  ],
+  "17:13": [
+   "ts"
+  ],
+  "17:14": [
+   "ts",
+   "p"
+  ],
+  "17:15": [
+   "ts",
+   "p"
+  ],
+  "17:17": [
+   "ts",
+   "p"
+  ],
+  "17:19": [
+   "ts"
+  ],
+  "17:20": [
+   "ts",
+   "p"
+  ],
+  "17:20c": [
+   "ts",
+   "p"
+  ],
+  "17:21": [
+   "ts",
+   "p"
+  ],
+  "17:23": [
+   "ts",
+   "p"
+  ],
+  "17:24": [
+   "ts",
+   "p"
+  ],
+  "17:27": [
+   "ts",
+   "p"
+  ],
+  "18:1": [
+   "ts",
+   "p"
+  ],
+  "18:3": [
+   "ts",
+   "p"
+  ],
+  "18:4": [
+   "ts",
+   "p"
+  ],
+  "18:4c": [
+   "ts",
+   "p"
+  ],
+  "18:6": [
+   "ts",
+   "p"
+  ],
+  "18:9": [
+   "ts",
+   "p"
+  ],
+  "18:10": [
+   "ts",
+   "p"
+  ],
+  "18:11": [
+   "ts",
+   "p"
+  ],
+  "18:12": [
+   "ts",
+   "p"
+  ],
+  "18:14": [
+   "ts",
+   "p"
+  ],
+  "18:16": [
+   "ts",
+   "p"
+  ],
+  "18:18": [
+   "ts",
+   "p"
+  ],
+  "18:19": [
+   "ts",
+   "p"
+  ],
+  "18:20": [
+   "ts",
+   "p"
+  ],
+  "18:21": [
+   "ts",
+   "p"
+  ],
+  "18:22": [
+   "ts",
+   "p"
+  ],
+  "18:22c": [
+   "ts",
+   "p"
+  ],
+  "18:23": [
+   "ts",
+   "p"
+  ],
+  "18:23b": [
+   "ts",
+   "p"
+  ],
+  "18:24": [
+   "ts",
+   "p"
+  ],
+  "18:26": [
+   "ts",
+   "p"
+  ],
+  "18:26c": [
+   "ts",
+   "p"
+  ],
+  "18:27": [
+   "ts",
+   "p"
+  ],
+  "18:27c": [
+   "ts",
+   "p"
+  ],
+  "18:28": [
+   "ts",
+   "p"
+  ],
+  "18:29": [
+   "ts",
+   "p"
+  ],
+  "18:29c": [
+   "ts",
+   "p"
+  ],
+  "18:30": [
+   "ts",
+   "p"
+  ],
+  "18:31": [
+   "ts",
+   "p"
+  ],
+  "18:32": [
+   "ts",
+   "p"
+  ],
+  "18:32c": [
+   "ts",
+   "p"
+  ],
+  "18:33": [
+   "ts",
+   "p"
+  ],
+  "19:1": [
+   "ts",
+   "p"
+  ],
+  "19:3": [
+   "ts"
+  ],
+  "19:5": [
+   "ts",
+   "p"
+  ],
+  "19:7": [
+   "ts"
+  ],
+  "19:8": [
+   "ts",
+   "p"
+  ],
+  "19:8b": [
+   "ts",
+   "p"
+  ],
+  "19:9": [
+   "ts",
+   "p"
+  ],
+  "19:11": [
+   "ts",
+   "p"
+  ],
+  "19:13": [
+   "ts"
+  ],
+  "19:14": [
+   "ts",
+   "p"
+  ],
+  "19:15b": [
+   "ts",
+   "p"
+  ],
+  "19:18b": [
+   "ts",
+   "p"
+  ],
+  "19:21": [
+   "ts",
+   "p"
+  ],
+  "19:22": [
+   "ts",
+   "p"
+  ],
+  "19:24": [
+   "ts",
+   "p"
+  ],
+  "19:26": [
+   "ts",
+   "p"
+  ],
+  "19:29": [
+   "ts",
+   "p"
+  ],
+  "19:30": [
+   "ts",
+   "p"
+  ],
+  "19:31": [
+   "ts",
+   "p"
+  ],
+  "19:34": [
+   "ts",
+   "p"
+  ],
+  "19:37": [
+   "ts"
+  ],
+  "19:38": [
+   "ts",
+   "p"
+  ],
+  "19:39": [
+   "ts",
+   "p"
+  ],
+  "19:40": [
+   "ts",
+   "p"
+  ],
+  "19:41": [
+   "ts",
+   "p"
+  ],
+  "19:42": [
+   "ts",
+   "p"
+  ],
+  "19:43": [
+   "ts",
+   "p"
+  ],
+  "19:43e": [
+   "ts",
+   "p"
+  ],
+  "20:1": [
+   "ts",
+   "p"
+  ],
+  "20:2": [
+   "ts",
+   "p"
+  ],
+  "20:3": [
+   "ts",
+   "p"
+  ],
+  "20:4": [
+   "ts",
+   "p"
+  ],
+  "20:6": [
+   "ts",
+   "p"
+  ],
+  "20:8": [
+   "ts",
+   "p"
+  ],
+  "20:9": [
+   "ts",
+   "p"
+  ],
+  "20:11": [
+   "ts",
+   "p"
+  ],
+  "20:14": [
+   "ts",
+   "p"
+  ],
+  "20:17": [
+   "ts",
+   "p"
+  ],
+  "20:17c": [
+   "ts",
+   "p"
+  ],
+  "20:17e": [
+   "ts",
+   "p"
+  ],
+  "20:17g": [
+   "ts",
+   "p"
+  ],
+  "20:20": [
+   "ts",
+   "p"
+  ],
+  "20:21c": [
+   "ts",
+   "p"
+  ],
+  "20:22": [
+   "ts",
+   "p"
+  ],
+  "20:23": [
+   "ts",
+   "p"
+  ],
+  "21:1": [
+   "ts",
+   "p"
+  ],
+  "21:2": [
+   "ts",
+   "p"
+  ],
+  "21:4": [
+   "ts",
+   "p"
+  ],
+  "21:4d": [
+   "ts",
+   "p"
+  ],
+  "21:5": [
+   "ts",
+   "p"
+  ],
+  "21:6b": [
+   "ts",
+   "p"
+  ],
+  "21:7": [
+   "ts",
+   "p"
+  ],
+  "21:10": [
+   "ts",
+   "p"
+  ],
+  "21:12": [
+   "ts",
+   "p"
+  ],
+  "21:14": [
+   "ts",
+   "p"
+  ],
+  "21:15": [
+   "ts",
+   "p"
+  ],
+  "21:18": [
+   "ts",
+   "p"
+  ],
+  "21:19": [
+   "ts",
+   "p"
+  ],
+  "21:20": [
+   "ts",
+   "p"
+  ],
+  "21:22": [
+   "ts",
+   "p"
+  ],
+  "22:1": [
+   "ts",
+   "p"
+  ],
+  "22:4": [
+   "ts",
+   "p"
+  ],
+  "22:7": [
+   "ts",
+   "p"
+  ],
+  "22:17": [
+   "ts",
+   "p"
+  ],
+  "22:21": [
+   "ts",
+   "p"
+  ],
+  "22:26": [
+   "ts",
+   "p"
+  ],
+  "22:29": [
+   "ts",
+   "p"
+  ],
+  "22:30b": [
+   "ts",
+   "p"
+  ],
+  "22:38": [
+   "ts",
+   "p"
+  ],
+  "22:43b": [
+   "ts",
+   "p"
+  ],
+  "22:47": [
+   "ts",
+   "p"
+  ],
+  "22:49b": [
+   "ts",
+   "p"
+  ],
+  "23:1": [
+   "ts",
+   "p"
+  ],
+  "23:2": [
+   "ts",
+   "p"
+  ],
+  "23:5": [
+   "ts",
+   "p"
+  ],
+  "23:8": [
+   "ts",
+   "p"
+  ],
+  "23:9": [
+   "ts",
+   "p"
+  ],
+  "23:11": [
+   "ts",
+   "p"
+  ],
+  "23:13": [
+   "ts",
+   "p"
+  ],
+  "23:17d": [
+   "ts",
+   "p"
+  ],
+  "23:18": [
+   "ts",
+   "p"
+  ],
+  "23:20": [
+   "ts",
+   "p"
+  ],
+  "23:23b": [
+   "ts",
+   "p"
+  ],
+  "24:1": [
+   "ts",
+   "p"
+  ],
+  "24:2": [
+   "ts",
+   "p"
+  ],
+  "24:3": [
+   "ts",
+   "p"
+  ],
+  "24:4": [
+   "ts",
+   "p"
+  ],
+  "24:5": [
+   "ts",
+   "p"
+  ],
+  "24:8": [
+   "ts",
+   "p"
+  ],
+  "24:9": [
+   "ts",
+   "p"
+  ],
+  "24:10": [
+   "ts",
+   "p"
+  ],
+  "24:11": [
+   "ts",
+   "p"
+  ],
+  "24:13": [
+   "ts",
+   "p"
+  ],
+  "24:14": [
+   "ts",
+   "p"
+  ],
+  "24:15": [
+   "ts",
+   "p"
+  ],
+  "24:17": [
+   "ts",
+   "p"
+  ],
+  "24:18": [
+   "ts",
+   "p"
+  ],
+  "24:21": [
+   "ts",
+   "p"
+  ],
+  "24:21c": [
+   "ts",
+   "p"
+  ],
+  "24:22": [
+   "ts",
+   "p"
+  ],
+  "24:24": [
+   "ts",
+   "p"
+  ],
+  "24:24d": [
+   "ts",
+   "p"
+  ]
+ },
+ "anchors": {
+  "1:3c": {
+   "after_punct": "?”",
+   "before": "“Where from this are you coming?”",
+   "after": "And he said to him, “I"
+  },
+  "1:4d": {
+   "after_punct": ".”",
+   "before": "the matter? Declare to me, please.”",
+   "after": "And he said that the people"
+  },
+  "1:8c": {
+   "after_punct": "?’",
+   "before": "said to me, ‘Who {are} you?’",
+   "after": "And I said to him, ‘I"
+  },
+  "1:13c": {
+   "after_punct": "?”",
+   "before": "him, “Where from this {are} you?”",
+   "after": "And he said, “I {am} the"
+  },
+  "1:19b": {
+   "after_punct": "!",
+   "before": "{is} slain on your high places!",
+   "after": "How the mighty have fallen!"
+  },
+  "1:23b": {
+   "after_punct": ".",
+   "before": "their death they were not separated.",
+   "after": "They were swifter than eagles, they"
+  },
+  "1:26c": {
+   "after_punct": ".",
+   "before": "You were very pleasant to me.",
+   "after": "Your love was more wonderful to"
+  },
+  "2:1c": {
+   "after_punct": "?”",
+   "before": "one of the cities of Judah?”",
+   "after": "And Yahweh said to him, “Go"
+  },
+  "2:1e": {
+   "after_punct": ".”",
+   "before": "Yahweh said to him, “Go up.”",
+   "after": "And David said, “Where shall I"
+  },
+  "2:1g": {
+   "after_punct": "?”",
+   "before": "said, “Where shall I go up?”",
+   "after": "And he said, “To Hebron.”"
+  },
+  "2:4b": {
+   "after_punct": ".",
+   "before": "king over the house of Judah.",
+   "after": "And they declared to David, saying,"
+  },
+  "2:14c": {
+   "after_punct": ".”",
+   "before": "arise and play to our faces.”",
+   "after": "And Joab said, “May they arise.”"
+  },
+  "2:20c": {
+   "after_punct": "?”",
+   "before": "he said, “{Is} this you, Asahel?”",
+   "after": "And he said, “{It is} I.”"
+  },
+  "3:2b": {
+   "after_punct": ".",
+   "before": "were born to David in Hebron.",
+   "after": "And his firstborn was Amnon, to"
+  },
+  "3:3b": {
+   "after_punct": ".",
+   "before": "the wife of Nabal the Carmelite.",
+   "after": "And the third {was} Absalom, the"
+  },
+  "3:4b": {
+   "after_punct": ".",
+   "before": "{was} Adonijah, the son of Haggith.",
+   "after": "And the fifth {was} Shephatiah, the"
+  },
+  "3:5b": {
+   "after_punct": ".",
+   "before": "to Eglah, the wife of David.",
+   "after": "These were born to David in"
+  },
+  "3:34c": {
+   "after_punct": ".”",
+   "before": "sons of wickedness, you have fallen.”",
+   "after": "And all of the people added"
+  },
+  "5:19d": {
+   "after_punct": "?”",
+   "before": "you give them into my hand?”",
+   "after": "And Yahweh said to David, “Go"
+  },
+  "7:11b": {
+   "after_punct": ".",
+   "before": "commanded judges over my people Israel.",
+   "after": "And I will give rest to"
+  },
+  "9:2e": {
+   "after_punct": "?”",
+   "before": "said to him, “{Are} you Ziba?”",
+   "after": "And he said, “Your servant.”"
+  },
+  "9:3c": {
+   "after_punct": "?”",
+   "before": "him the covenant faithfulness of God?”",
+   "after": "And Ziba said to the king,"
+  },
+  "9:4c": {
+   "after_punct": "?”",
+   "before": "said to him, “Where {is} he?”",
+   "after": "And Ziba said to the king,"
+  },
+  "9:6b": {
+   "after_punct": ".",
+   "before": "his face, and he prostrated himself.",
+   "after": "And David said, “Mephibosheth.” And he"
+  },
+  "9:6d": {
+   "after_punct": ".”",
+   "before": "prostrated himself. And David said, “Mephibosheth.”",
+   "after": "And he said, “Behold your servant.”"
+  },
+  "10:2d": {
+   "after_punct": ".",
+   "before": "to console him concerning his father.",
+   "after": "And the servants of David entered"
+  },
+  "10:19b": {
+   "after_punct": ".",
+   "before": "with Israel, and they served them.",
+   "after": "And Aram feared to save the"
+  },
+  "12:13c": {
+   "after_punct": ".”",
+   "before": "Nathan, “I have sinned against Yahweh.”",
+   "after": "And Nathan said to David, “Yahweh"
+  },
+  "12:15b": {
+   "after_punct": ".",
+   "before": "Then Nathan went to his home.",
+   "after": "And Yahweh struck the child whom"
+  },
+  "12:19d": {
+   "after_punct": "?”",
+   "before": "his servants, “Has the child died?”",
+   "after": "And they said, “He has died.”"
+  },
+  "13:4d": {
+   "after_punct": "?”",
+   "before": "Will you not declare to me?”",
+   "after": "And Amnon said to him, “I"
+  },
+  "13:9b": {
+   "after_punct": ".",
+   "before": "face, but he refused to eat.",
+   "after": "And Amnon said, “Make every man"
+  },
+  "13:16c": {
+   "after_punct": ".”",
+   "before": "other that you did to me.”",
+   "after": "But he was not willing to"
+  },
+  "13:26c": {
+   "after_punct": ".”",
+   "before": "my brother please go with us.”",
+   "after": "And the king said to him,"
+  },
+  "14:5c": {
+   "after_punct": "?”",
+   "before": "to her, “What {is} to you?”",
+   "after": "And she said, “Truly I {am}"
+  },
+  "14:11d": {
+   "after_punct": ".”",
+   "before": "they will not destroy my son.”",
+   "after": "And he said, “The life of"
+  },
+  "14:12c": {
+   "after_punct": ".”",
+   "before": "word to my lord the king.”",
+   "after": "And he said, “Speak.”"
+  },
+  "14:18c": {
+   "after_punct": ".”",
+   "before": "thing that I am asking you.”",
+   "after": "And the woman said, “May my"
+  },
+  "14:19c": {
+   "after_punct": "?”",
+   "before": "with you in all of this?”",
+   "after": "And the woman answered and said,"
+  },
+  "16:2c": {
+   "after_punct": "?”",
+   "before": "Ziba, “What {are} these to you?”",
+   "after": "And Ziba said, “The donkeys {are}"
+  },
+  "16:3c": {
+   "after_punct": "?”",
+   "before": "{is} the son of your master?”",
+   "after": "And Ziba said to the king,"
+  },
+  "16:4c": {
+   "after_punct": ".”",
+   "before": "{is} all that {was} to Mephibosheth.”",
+   "after": "And Ziba said, “I prostrate myself."
+  },
+  "17:20c": {
+   "after_punct": "?”",
+   "before": "said, “Where {are} Ahimaaz and Jonathan?”",
+   "after": "And the woman said to them,"
+  },
+  "18:4c": {
+   "after_punct": ".”",
+   "before": "in your eyes, I will do.”",
+   "after": "And the king stood at the"
+  },
+  "18:22c": {
+   "after_punct": ".”",
+   "before": "run, I too, after the Cushite.”",
+   "after": "And Joab said, “Why {is} this,"
+  },
+  "18:23b": {
+   "after_punct": ".”",
+   "before": "whatever may be, let me run.”",
+   "after": "And he said to him, “Run.”"
+  },
+  "18:26c": {
+   "after_punct": ".”",
+   "before": "“Behold, a man running by himself.”",
+   "after": "And the king said, “This {one}"
+  },
+  "18:27c": {
+   "after_punct": ".”",
+   "before": "of Ahimaaz, the son of Zadok.”",
+   "after": "And the king said, “This {is}"
+  },
+  "18:29c": {
+   "after_punct": "?”",
+   "before": "to the young man, to Absalom?”",
+   "after": "And Ahimaaz said, “I saw a"
+  },
+  "18:32c": {
+   "after_punct": "?”",
+   "before": "to the young man, to Absalom?”",
+   "after": "And the Cushite said, “May the"
+  },
+  "19:8b": {
+   "after_punct": ".",
+   "before": "arose and sat in the gate.",
+   "after": "And they declared to all of"
+  },
+  "19:15b": {
+   "after_punct": ".",
+   "before": "and he came to the Jordan.",
+   "after": "And Judah came to Gilgal to"
+  },
+  "19:18b": {
+   "after_punct": ".",
+   "before": "do the good in his eyes.",
+   "after": "And Shimei, the son of Gera,"
+  },
+  "19:43e": {
+   "after_punct": "?”",
+   "before": "bring back my king to me?”",
+   "after": "But the word of a man"
+  },
+  "20:17c": {
+   "after_punct": "?”",
+   "before": "the woman said, “{Are you} Joab?”",
+   "after": "And he said, “I {am}.” And"
+  },
+  "20:17e": {
+   "after_punct": "}.”",
+   "before": "Joab?” And he said, “I {am}.”",
+   "after": "And she said to him, “Hear"
+  },
+  "20:17g": {
+   "after_punct": ".”",
+   "before": "the words of your female servant.”",
+   "after": "And he said, “I am listening.”"
+  },
+  "20:21c": {
+   "after_punct": ".”",
+   "before": "let me go from the city.”",
+   "after": "And the woman said to Joab,"
+  },
+  "21:4d": {
+   "after_punct": ".”",
+   "before": "a man to kill in Israel.”",
+   "after": "And he said, “What are you"
+  },
+  "21:6b": {
+   "after_punct": ".”",
+   "before": "of Saul, the chosen of Yahweh.”",
+   "after": "And the king said, “I, I"
+  },
+  "22:30b": {
+   "after_punct": ".",
+   "before": "you, I run {after} a troop.",
+   "after": "By my God, I leap {over}"
+  },
+  "22:43b": {
+   "after_punct": ".",
+   "before": "like the dust of the earth.",
+   "after": "Like the mud of the streets,"
+  },
+  "22:49b": {
+   "after_punct": ".",
+   "before": "bringing me out from my enemies.",
+   "after": "And from the ones arising {against}"
+  },
+  "23:17d": {
+   "after_punct": ".",
+   "before": "was not willing to drink it.",
+   "after": "These {things} the three warriors did."
+  },
+  "23:23b": {
+   "after_punct": ".",
+   "before": "the Three, he did not come.",
+   "after": "And David put him to his"
+  },
+  "24:21c": {
+   "after_punct": "?”",
+   "before": "the king come to his servant?”",
+   "after": "And David said, “To buy from"
+  },
+  "24:24d": {
+   "after_punct": ".”",
+   "before": "my God burnt offerings for nothing.”",
+   "after": "So David bought the threshing floor"
+  }
+ },
+ "baseline_poetry_verses": []
+}

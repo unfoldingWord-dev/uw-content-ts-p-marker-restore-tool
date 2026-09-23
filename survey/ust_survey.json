@@ -1,0 +1,8702 @@
+{
+ "GEN": {
+  "file": "01-GEN.usfm",
+  "current_ts": 635,
+  "current_pm": 454,
+  "max_ts": 635,
+  "baseline": {
+   "sha": "1a2b4e04f0d43fa565f68c99e6f346c33eaccf13",
+   "date": "2026-08-14T02:53:54Z",
+   "author": "Stephen Wunrow",
+   "subject": "Changing Qere to Ketiv in alignment (to match uhb) (#4525)",
+   "ts": 635,
+   "pm": 454,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 50,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 13,
+   "2": 10,
+   "3": 10,
+   "4": 11,
+   "5": 12,
+   "6": 10,
+   "7": 12,
+   "8": 9,
+   "9": 13,
+   "10": 12,
+   "11": 15,
+   "12": 7,
+   "13": 8,
+   "14": 9,
+   "15": 7,
+   "16": 7,
+   "17": 10,
+   "18": 13,
+   "19": 17,
+   "20": 8,
+   "21": 13,
+   "22": 10,
+   "23": 9,
+   "24": 28,
+   "25": 14,
+   "26": 16,
+   "27": 23,
+   "28": 11,
+   "29": 15,
+   "30": 20,
+   "31": 23,
+   "32": 13,
+   "33": 7,
+   "34": 12,
+   "35": 11,
+   "36": 15,
+   "37": 15,
+   "38": 13,
+   "39": 9,
+   "40": 9,
+   "41": 23,
+   "42": 14,
+   "43": 14,
+   "44": 13,
+   "45": 11,
+   "46": 11,
+   "47": 13,
+   "48": 9,
+   "49": 19,
+   "50": 9
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "5": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "6": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "7": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "8": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "9": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "10": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "11": {
+    "sha": "current",
+    "date": null,
+    "ts": 15
+   },
+   "12": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "13": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "14": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "15": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "16": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "17": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "18": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "19": {
+    "sha": "current",
+    "date": null,
+    "ts": 17
+   },
+   "20": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "21": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "22": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "23": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "24": {
+    "sha": "current",
+    "date": null,
+    "ts": 28
+   },
+   "25": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "26": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "27": {
+    "sha": "current",
+    "date": null,
+    "ts": 23
+   },
+   "28": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "29": {
+    "sha": "current",
+    "date": null,
+    "ts": 15
+   },
+   "30": {
+    "sha": "current",
+    "date": null,
+    "ts": 20
+   },
+   "31": {
+    "sha": "current",
+    "date": null,
+    "ts": 23
+   },
+   "32": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "33": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "34": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "35": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "36": {
+    "sha": "current",
+    "date": null,
+    "ts": 15
+   },
+   "37": {
+    "sha": "current",
+    "date": null,
+    "ts": 15
+   },
+   "38": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "39": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "40": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "41": {
+    "sha": "current",
+    "date": null,
+    "ts": 23
+   },
+   "42": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "43": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "44": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "45": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "46": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "47": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "48": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "49": {
+    "sha": "current",
+    "date": null,
+    "ts": 19
+   },
+   "50": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   }
+  },
+  "commits_scanned": 93
+ },
+ "EXO": {
+  "file": "02-EXO.usfm",
+  "current_ts": 505,
+  "current_pm": 390,
+  "max_ts": 505,
+  "baseline": {
+   "sha": "1a2b4e04f0d43fa565f68c99e6f346c33eaccf13",
+   "date": "2026-08-14T02:53:54Z",
+   "author": "Stephen Wunrow",
+   "subject": "Changing Qere to Ketiv in alignment (to match uhb) (#4525)",
+   "ts": 505,
+   "pm": 390,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 40,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 9,
+   "2": 11,
+   "3": 9,
+   "4": 11,
+   "5": 8,
+   "6": 10,
+   "7": 11,
+   "8": 11,
+   "9": 14,
+   "10": 12,
+   "11": 4,
+   "12": 19,
+   "13": 9,
+   "14": 11,
+   "15": 12,
+   "16": 13,
+   "17": 6,
+   "18": 13,
+   "19": 12,
+   "20": 11,
+   "21": 17,
+   "22": 19,
+   "23": 18,
+   "24": 9,
+   "25": 18,
+   "26": 14,
+   "27": 9,
+   "28": 19,
+   "29": 21,
+   "30": 15,
+   "31": 8,
+   "32": 13,
+   "33": 9,
+   "34": 17,
+   "35": 11,
+   "36": 13,
+   "37": 11,
+   "38": 12,
+   "39": 19,
+   "40": 17
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "5": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "6": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "7": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "8": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "9": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "10": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "11": {
+    "sha": "current",
+    "date": null,
+    "ts": 4
+   },
+   "12": {
+    "sha": "current",
+    "date": null,
+    "ts": 19
+   },
+   "13": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "14": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "15": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "16": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "17": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "18": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "19": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "20": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "21": {
+    "sha": "current",
+    "date": null,
+    "ts": 17
+   },
+   "22": {
+    "sha": "current",
+    "date": null,
+    "ts": 19
+   },
+   "23": {
+    "sha": "current",
+    "date": null,
+    "ts": 18
+   },
+   "24": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "25": {
+    "sha": "current",
+    "date": null,
+    "ts": 18
+   },
+   "26": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "27": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "28": {
+    "sha": "current",
+    "date": null,
+    "ts": 19
+   },
+   "29": {
+    "sha": "current",
+    "date": null,
+    "ts": 21
+   },
+   "30": {
+    "sha": "current",
+    "date": null,
+    "ts": 15
+   },
+   "31": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "32": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "33": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "34": {
+    "sha": "current",
+    "date": null,
+    "ts": 17
+   },
+   "35": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "36": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "37": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "38": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "39": {
+    "sha": "current",
+    "date": null,
+    "ts": 19
+   },
+   "40": {
+    "sha": "current",
+    "date": null,
+    "ts": 17
+   }
+  },
+  "commits_scanned": 105
+ },
+ "LEV": {
+  "file": "03-LEV.usfm",
+  "current_ts": 366,
+  "current_pm": 277,
+  "max_ts": 372,
+  "baseline": {
+   "sha": "1a2b4e04f0d43fa565f68c99e6f346c33eaccf13",
+   "date": "2026-08-14T02:53:54Z",
+   "author": "Stephen Wunrow",
+   "subject": "Changing Qere to Ketiv in alignment (to match uhb) (#4525)",
+   "ts": 366,
+   "pm": 277,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 27,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 8,
+   "2": 6,
+   "3": 6,
+   "4": 17,
+   "5": 9,
+   "6": 12,
+   "7": 17,
+   "8": 16,
+   "9": 10,
+   "10": 8,
+   "11": 17,
+   "12": 4,
+   "13": 25,
+   "14": 24,
+   "15": 14,
+   "16": 16,
+   "17": 8,
+   "18": 13,
+   "19": 16,
+   "20": 13,
+   "21": 8,
+   "22": 13,
+   "23": 16,
+   "24": 10,
+   "25": 22,
+   "26": 21,
+   "27": 17
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 17
+   },
+   "5": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "6": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "7": {
+    "sha": "current",
+    "date": null,
+    "ts": 17
+   },
+   "8": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "9": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "10": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "11": {
+    "sha": "current",
+    "date": null,
+    "ts": 17
+   },
+   "12": {
+    "sha": "current",
+    "date": null,
+    "ts": 4
+   },
+   "13": {
+    "sha": "current",
+    "date": null,
+    "ts": 25
+   },
+   "14": {
+    "sha": "current",
+    "date": null,
+    "ts": 24
+   },
+   "15": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "16": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "17": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "18": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "19": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "20": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "21": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "22": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "23": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "24": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "25": {
+    "sha": "current",
+    "date": null,
+    "ts": 22
+   },
+   "26": {
+    "sha": "current",
+    "date": null,
+    "ts": 21
+   },
+   "27": {
+    "sha": "current",
+    "date": null,
+    "ts": 17
+   }
+  },
+  "commits_scanned": 85
+ },
+ "NUM": {
+  "file": "04-NUM.usfm",
+  "current_ts": 532,
+  "current_pm": 350,
+  "max_ts": 542,
+  "baseline": {
+   "sha": "3bb8b7699440c415b2772a1e5497752e11a4043e",
+   "date": "2026-09-23T16:56:41-04:00",
+   "author": "Richard Mahn",
+   "subject": "Restores \\p tags",
+   "ts": 532,
+   "pm": 350,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 36,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 24,
+   "2": 20,
+   "3": 20,
+   "4": 21,
+   "5": 14,
+   "6": 13,
+   "7": 32,
+   "8": 13,
+   "9": 10,
+   "10": 14,
+   "11": 14,
+   "12": 7,
+   "13": 12,
+   "14": 18,
+   "15": 16,
+   "16": 19,
+   "17": 6,
+   "18": 14,
+   "19": 8,
+   "20": 14,
+   "21": 16,
+   "22": 17,
+   "23": 14,
+   "24": 16,
+   "25": 8,
+   "26": 15,
+   "27": 10,
+   "28": 11,
+   "29": 17,
+   "30": 9,
+   "31": 20,
+   "32": 17,
+   "33": 19,
+   "34": 11,
+   "35": 16,
+   "36": 7
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 24
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 20
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 20
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 21
+   },
+   "5": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "6": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "7": {
+    "sha": "current",
+    "date": null,
+    "ts": 32
+   },
+   "8": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "9": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "10": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "11": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "12": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "13": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "14": {
+    "sha": "current",
+    "date": null,
+    "ts": 18
+   },
+   "15": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "16": {
+    "sha": "current",
+    "date": null,
+    "ts": 19
+   },
+   "17": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "18": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "19": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "20": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "21": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "22": {
+    "sha": "current",
+    "date": null,
+    "ts": 17
+   },
+   "23": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "24": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "25": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "26": {
+    "sha": "current",
+    "date": null,
+    "ts": 15
+   },
+   "27": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "28": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "29": {
+    "sha": "current",
+    "date": null,
+    "ts": 17
+   },
+   "30": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "31": {
+    "sha": "current",
+    "date": null,
+    "ts": 20
+   },
+   "32": {
+    "sha": "current",
+    "date": null,
+    "ts": 17
+   },
+   "33": {
+    "sha": "current",
+    "date": null,
+    "ts": 19
+   },
+   "34": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "35": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "36": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   }
+  },
+  "commits_scanned": 241
+ },
+ "DEU": {
+  "file": "05-DEU.usfm",
+  "current_ts": 464,
+  "current_pm": 268,
+  "max_ts": 480,
+  "baseline": {
+   "sha": "3bb8b7699440c415b2772a1e5497752e11a4043e",
+   "date": "2026-09-23T16:56:41-04:00",
+   "author": "Richard Mahn",
+   "subject": "Restores \\p tags",
+   "ts": 464,
+   "pm": 268,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 34,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 21,
+   "2": 18,
+   "3": 15,
+   "4": 23,
+   "5": 16,
+   "6": 11,
+   "7": 13,
+   "8": 9,
+   "9": 16,
+   "10": 12,
+   "11": 15,
+   "12": 18,
+   "13": 8,
+   "14": 13,
+   "15": 10,
+   "16": 11,
+   "17": 10,
+   "18": 9,
+   "19": 9,
+   "20": 10,
+   "21": 10,
+   "22": 17,
+   "23": 11,
+   "24": 13,
+   "25": 9,
+   "26": 10,
+   "27": 13,
+   "28": 24,
+   "29": 13,
+   "30": 9,
+   "31": 11,
+   "32": 30,
+   "33": 22,
+   "34": 5
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 21
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 18
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 15
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 23
+   },
+   "5": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "6": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "7": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "8": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "9": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "10": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "11": {
+    "sha": "current",
+    "date": null,
+    "ts": 15
+   },
+   "12": {
+    "sha": "current",
+    "date": null,
+    "ts": 18
+   },
+   "13": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "14": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "15": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "16": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "17": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "18": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "19": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "20": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "21": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "22": {
+    "sha": "current",
+    "date": null,
+    "ts": 17
+   },
+   "23": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "24": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "25": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "26": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "27": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "28": {
+    "sha": "current",
+    "date": null,
+    "ts": 24
+   },
+   "29": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "30": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "31": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "32": {
+    "sha": "current",
+    "date": null,
+    "ts": 30
+   },
+   "33": {
+    "sha": "current",
+    "date": null,
+    "ts": 22
+   },
+   "34": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   }
+  },
+  "commits_scanned": 284
+ },
+ "JOS": {
+  "file": "06-JOS.usfm",
+  "current_ts": 308,
+  "current_pm": 197,
+  "max_ts": 308,
+  "baseline": {
+   "sha": "3bb8b7699440c415b2772a1e5497752e11a4043e",
+   "date": "2026-09-23T16:56:41-04:00",
+   "author": "Richard Mahn",
+   "subject": "Restores \\p tags",
+   "ts": 308,
+   "pm": 197,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 24,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 8,
+   "2": 12,
+   "3": 8,
+   "4": 10,
+   "5": 9,
+   "6": 14,
+   "7": 13,
+   "8": 16,
+   "9": 12,
+   "10": 24,
+   "11": 11,
+   "12": 8,
+   "13": 16,
+   "14": 7,
+   "15": 25,
+   "16": 5,
+   "17": 9,
+   "18": 13,
+   "19": 22,
+   "20": 5,
+   "21": 19,
+   "22": 18,
+   "23": 7,
+   "24": 17
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "5": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "6": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "7": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "8": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "9": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "10": {
+    "sha": "current",
+    "date": null,
+    "ts": 24
+   },
+   "11": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "12": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "13": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "14": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "15": {
+    "sha": "current",
+    "date": null,
+    "ts": 25
+   },
+   "16": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "17": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "18": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "19": {
+    "sha": "current",
+    "date": null,
+    "ts": 22
+   },
+   "20": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "21": {
+    "sha": "current",
+    "date": null,
+    "ts": 19
+   },
+   "22": {
+    "sha": "current",
+    "date": null,
+    "ts": 18
+   },
+   "23": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "24": {
+    "sha": "current",
+    "date": null,
+    "ts": 17
+   }
+  },
+  "commits_scanned": 67
+ },
+ "JDG": {
+  "file": "07-JDG.usfm",
+  "current_ts": 302,
+  "current_pm": 282,
+  "max_ts": 302,
+  "baseline": {
+   "sha": "3bb8b7699440c415b2772a1e5497752e11a4043e",
+   "date": "2026-09-23T16:56:41-04:00",
+   "author": "Richard Mahn",
+   "subject": "Restores \\p tags",
+   "ts": 302,
+   "pm": 282,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 21,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 17,
+   "2": 9,
+   "3": 13,
+   "4": 13,
+   "5": 19,
+   "6": 22,
+   "7": 14,
+   "8": 18,
+   "9": 25,
+   "10": 8,
+   "11": 16,
+   "12": 7,
+   "13": 12,
+   "14": 11,
+   "15": 11,
+   "16": 16,
+   "17": 6,
+   "18": 14,
+   "19": 15,
+   "20": 24,
+   "21": 12
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 17
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "5": {
+    "sha": "current",
+    "date": null,
+    "ts": 19
+   },
+   "6": {
+    "sha": "current",
+    "date": null,
+    "ts": 22
+   },
+   "7": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "8": {
+    "sha": "current",
+    "date": null,
+    "ts": 18
+   },
+   "9": {
+    "sha": "current",
+    "date": null,
+    "ts": 25
+   },
+   "10": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "11": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "12": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "13": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "14": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "15": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "16": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "17": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "18": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "19": {
+    "sha": "current",
+    "date": null,
+    "ts": 15
+   },
+   "20": {
+    "sha": "current",
+    "date": null,
+    "ts": 24
+   },
+   "21": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   }
+  },
+  "commits_scanned": 91
+ },
+ "RUT": {
+  "file": "08-RUT.usfm",
+  "current_ts": 35,
+  "current_pm": 28,
+  "max_ts": 38,
+  "baseline": {
+   "sha": "d635acc1fa807d8e3620114bfcf8a2263426fd78",
+   "date": "2019-05-24T13:06:18Z",
+   "author": "Jesse Griffin",
+   "subject": "Updates for version 3 (#635)",
+   "ts": 38,
+   "pm": 32,
+   "dup": false
+  },
+  "first_drop_after_baseline": {
+   "sha": "fb2636437068561f401801e53f154ab55c1b204d",
+   "date": "2019-06-25T22:18:13Z",
+   "author": "Perry J Oakes",
+   "subject": "upload aligned Jos, Rut, Ezr (#644)",
+   "ts": 35
+  },
+  "chapters": 4,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 8,
+   "2": 11,
+   "3": 8,
+   "4": 8
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   }
+  },
+  "commits_scanned": 35
+ },
+ "1SA": {
+  "file": "09-1SA.usfm",
+  "current_ts": 396,
+  "current_pm": 409,
+  "max_ts": 396,
+  "baseline": {
+   "sha": "765a0fedde80387dca124dbe445a09a7b58e41bb",
+   "date": "2026-08-17T13:01:48-04:00",
+   "author": "Richard Mahn",
+   "subject": "Reverts BE changes",
+   "ts": 396,
+   "pm": 409,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 31,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 13,
+   "2": 20,
+   "3": 9,
+   "4": 11,
+   "5": 6,
+   "6": 11,
+   "7": 9,
+   "8": 9,
+   "9": 14,
+   "10": 13,
+   "11": 8,
+   "12": 12,
+   "13": 11,
+   "14": 26,
+   "15": 16,
+   "16": 11,
+   "17": 27,
+   "18": 16,
+   "19": 11,
+   "20": 19,
+   "21": 8,
+   "22": 11,
+   "23": 14,
+   "24": 11,
+   "25": 23,
+   "26": 13,
+   "27": 6,
+   "28": 12,
+   "29": 7,
+   "30": 14,
+   "31": 5
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 20
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "5": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "6": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "7": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "8": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "9": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "10": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "11": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "12": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "13": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "14": {
+    "sha": "current",
+    "date": null,
+    "ts": 26
+   },
+   "15": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "16": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "17": {
+    "sha": "current",
+    "date": null,
+    "ts": 27
+   },
+   "18": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "19": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "20": {
+    "sha": "current",
+    "date": null,
+    "ts": 19
+   },
+   "21": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "22": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "23": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "24": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "25": {
+    "sha": "current",
+    "date": null,
+    "ts": 23
+   },
+   "26": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "27": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "28": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "29": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "30": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "31": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   }
+  },
+  "commits_scanned": 64
+ },
+ "2SA": {
+  "file": "10-2SA.usfm",
+  "current_ts": 305,
+  "current_pm": 321,
+  "max_ts": 307,
+  "baseline": {
+   "sha": "765a0fedde80387dca124dbe445a09a7b58e41bb",
+   "date": "2026-08-17T13:01:48-04:00",
+   "author": "Richard Mahn",
+   "subject": "Reverts BE changes",
+   "ts": 305,
+   "pm": 321,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 24,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 9,
+   "2": 15,
+   "3": 19,
+   "4": 4,
+   "5": 10,
+   "6": 11,
+   "7": 11,
+   "8": 9,
+   "9": 6,
+   "10": 8,
+   "11": 13,
+   "12": 13,
+   "13": 16,
+   "14": 14,
+   "15": 15,
+   "16": 12,
+   "17": 12,
+   "18": 15,
+   "19": 19,
+   "20": 11,
+   "21": 11,
+   "22": 24,
+   "23": 16,
+   "24": 12
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 15
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 19
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 4
+   },
+   "5": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "6": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "7": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "8": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "9": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "10": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "11": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "12": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "13": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "14": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "15": {
+    "sha": "current",
+    "date": null,
+    "ts": 15
+   },
+   "16": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "17": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "18": {
+    "sha": "current",
+    "date": null,
+    "ts": 15
+   },
+   "19": {
+    "sha": "current",
+    "date": null,
+    "ts": 19
+   },
+   "20": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "21": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "22": {
+    "sha": "current",
+    "date": null,
+    "ts": 24
+   },
+   "23": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "24": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   }
+  },
+  "commits_scanned": 45
+ },
+ "1KI": {
+  "file": "11-1KI.usfm",
+  "current_ts": 348,
+  "current_pm": 153,
+  "max_ts": 358,
+  "baseline": {
+   "sha": "3b2c555fa070287b02e05d653e1a6de97e39db0f",
+   "date": "2026-08-14T18:23:47Z",
+   "author": "Stephen Wunrow",
+   "subject": "Ketiv-Qere in 1KI 14:2 (#4543)",
+   "ts": 348,
+   "pm": 153,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 22,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 22,
+   "2": 20,
+   "3": 12,
+   "4": 11,
+   "5": 9,
+   "6": 16,
+   "7": 26,
+   "8": 26,
+   "9": 14,
+   "10": 13,
+   "11": 17,
+   "12": 15,
+   "13": 13,
+   "14": 12,
+   "15": 15,
+   "16": 16,
+   "17": 9,
+   "18": 19,
+   "19": 10,
+   "20": 20,
+   "21": 12,
+   "22": 21
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 22
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 20
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "5": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "6": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "7": {
+    "sha": "current",
+    "date": null,
+    "ts": 26
+   },
+   "8": {
+    "sha": "current",
+    "date": null,
+    "ts": 26
+   },
+   "9": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "10": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "11": {
+    "sha": "current",
+    "date": null,
+    "ts": 17
+   },
+   "12": {
+    "sha": "current",
+    "date": null,
+    "ts": 15
+   },
+   "13": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "14": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "15": {
+    "sha": "current",
+    "date": null,
+    "ts": 15
+   },
+   "16": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "17": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "18": {
+    "sha": "current",
+    "date": null,
+    "ts": 19
+   },
+   "19": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "20": {
+    "sha": "current",
+    "date": null,
+    "ts": 20
+   },
+   "21": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "22": {
+    "sha": "current",
+    "date": null,
+    "ts": 21
+   }
+  },
+  "commits_scanned": 63
+ },
+ "2KI": {
+  "file": "12-2KI.usfm",
+  "current_ts": 310,
+  "current_pm": 138,
+  "max_ts": 311,
+  "baseline": {
+   "sha": "1a2b4e04f0d43fa565f68c99e6f346c33eaccf13",
+   "date": "2026-08-14T02:53:54Z",
+   "author": "Stephen Wunrow",
+   "subject": "Changing Qere to Ketiv in alignment (to match uhb) (#4525)",
+   "ts": 310,
+   "pm": 138,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 25,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 9,
+   "2": 12,
+   "3": 12,
+   "4": 20,
+   "5": 12,
+   "6": 14,
+   "7": 9,
+   "8": 11,
+   "9": 16,
+   "10": 14,
+   "11": 10,
+   "12": 9,
+   "13": 11,
+   "14": 12,
+   "15": 17,
+   "16": 9,
+   "17": 17,
+   "18": 15,
+   "19": 16,
+   "20": 9,
+   "21": 9,
+   "22": 8,
+   "23": 17,
+   "24": 9,
+   "25": 13
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 20
+   },
+   "5": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "6": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "7": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "8": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "9": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "10": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "11": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "12": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "13": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "14": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "15": {
+    "sha": "current",
+    "date": null,
+    "ts": 17
+   },
+   "16": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "17": {
+    "sha": "current",
+    "date": null,
+    "ts": 17
+   },
+   "18": {
+    "sha": "current",
+    "date": null,
+    "ts": 15
+   },
+   "19": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "20": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "21": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "22": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "23": {
+    "sha": "current",
+    "date": null,
+    "ts": 17
+   },
+   "24": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "25": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   }
+  },
+  "commits_scanned": 48
+ },
+ "1CH": {
+  "file": "13-1CH.usfm",
+  "current_ts": 338,
+  "current_pm": 195,
+  "max_ts": 356,
+  "baseline": {
+   "sha": "4b665b23a62772ac80b4145b958d89920d412634",
+   "date": "2026-07-15T13:30:24Z",
+   "author": "Benjamin Wright",
+   "subject": "Merge pull request 'bible-editor: 1CH ust → master' (#4288) from 1CH-be-Carolyn1970 into master",
+   "ts": 339,
+   "pm": 195,
+   "dup": false
+  },
+  "first_drop_after_baseline": {
+   "sha": "a64ca0ad3b1f4dc28d75d2fcd43779798dbf8b1f",
+   "date": "2026-07-16T08:38:30Z",
+   "author": "Benjamin Wright",
+   "subject": "Merge pull request 'bible-editor: 1CH ust → master' (#4301) from 1CH-be-Carolyn1970 into master",
+   "ts": 338
+  },
+  "chapters": 29,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 17,
+   "2": 20,
+   "3": 9,
+   "4": 14,
+   "5": 11,
+   "6": 28,
+   "7": 16,
+   "8": 7,
+   "9": 16,
+   "10": 7,
+   "11": 12,
+   "12": 13,
+   "13": 5,
+   "14": 6,
+   "15": 11,
+   "16": 17,
+   "17": 9,
+   "18": 7,
+   "19": 9,
+   "20": 4,
+   "21": 12,
+   "22": 8,
+   "23": 12,
+   "24": 11,
+   "25": 9,
+   "26": 11,
+   "27": 12,
+   "28": 11,
+   "29": 14
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 17
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 20
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "5": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "6": {
+    "sha": "current",
+    "date": null,
+    "ts": 28
+   },
+   "7": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "8": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "9": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "10": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "11": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "12": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "13": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "14": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "15": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "16": {
+    "sha": "current",
+    "date": null,
+    "ts": 17
+   },
+   "17": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "18": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "19": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "20": {
+    "sha": "current",
+    "date": null,
+    "ts": 4
+   },
+   "21": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "22": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "23": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "24": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "25": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "26": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "27": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "28": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "29": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   }
+  },
+  "commits_scanned": 101
+ },
+ "2CH": {
+  "file": "14-2CH.usfm",
+  "current_ts": 373,
+  "current_pm": 334,
+  "max_ts": 374,
+  "baseline": {
+   "sha": "eb553fc5e3ee07cfc4d61c903b43622d11f20000",
+   "date": "2026-09-23T05:59:30Z",
+   "author": "Benjamin Wright",
+   "subject": "bible-editor: 2CH ust → master (#4719)",
+   "ts": 373,
+   "pm": 334,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 36,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 7,
+   "2": 8,
+   "3": 7,
+   "4": 8,
+   "5": 7,
+   "6": 17,
+   "7": 9,
+   "8": 10,
+   "9": 14,
+   "10": 9,
+   "11": 9,
+   "12": 8,
+   "13": 9,
+   "14": 6,
+   "15": 9,
+   "16": 7,
+   "17": 8,
+   "18": 15,
+   "19": 6,
+   "20": 18,
+   "21": 8,
+   "22": 6,
+   "23": 10,
+   "24": 12,
+   "25": 15,
+   "26": 10,
+   "27": 5,
+   "28": 12,
+   "29": 17,
+   "30": 11,
+   "31": 10,
+   "32": 15,
+   "33": 10,
+   "34": 15,
+   "35": 14,
+   "36": 12
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "5": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "6": {
+    "sha": "current",
+    "date": null,
+    "ts": 17
+   },
+   "7": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "8": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "9": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "10": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "11": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "12": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "13": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "14": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "15": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "16": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "17": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "18": {
+    "sha": "current",
+    "date": null,
+    "ts": 15
+   },
+   "19": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "20": {
+    "sha": "current",
+    "date": null,
+    "ts": 18
+   },
+   "21": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "22": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "23": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "24": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "25": {
+    "sha": "current",
+    "date": null,
+    "ts": 15
+   },
+   "26": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "27": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "28": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "29": {
+    "sha": "current",
+    "date": null,
+    "ts": 17
+   },
+   "30": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "31": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "32": {
+    "sha": "current",
+    "date": null,
+    "ts": 15
+   },
+   "33": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "34": {
+    "sha": "current",
+    "date": null,
+    "ts": 15
+   },
+   "35": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "36": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   }
+  },
+  "commits_scanned": 42
+ },
+ "EZR": {
+  "file": "15-EZR.usfm",
+  "current_ts": 95,
+  "current_pm": 154,
+  "max_ts": 112,
+  "baseline": {
+   "sha": "5999de3838d56cc024754ff278d1b4fe2f831290",
+   "date": "2019-08-07T19:16:56Z",
+   "author": "Larry Sallee",
+   "subject": "Fix format errors (#653)",
+   "ts": 112,
+   "pm": 56,
+   "dup": false
+  },
+  "first_drop_after_baseline": {
+   "sha": "c2e285d27068c6388792ef2762ef86191605977b",
+   "date": "2020-10-18T03:15:12Z",
+   "author": "Joel D. Ruark",
+   "subject": "Fix USFM markers [EZR] (#775)",
+   "ts": 95
+  },
+  "chapters": 10,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 5,
+   "2": 16,
+   "3": 6,
+   "4": 9,
+   "5": 7,
+   "6": 9,
+   "7": 10,
+   "8": 12,
+   "9": 6,
+   "10": 15
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "5": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "6": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "7": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "8": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "9": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "10": {
+    "sha": "current",
+    "date": null,
+    "ts": 15
+   }
+  },
+  "commits_scanned": 43
+ },
+ "NEH": {
+  "file": "16-NEH.usfm",
+  "current_ts": 145,
+  "current_pm": 228,
+  "max_ts": 165,
+  "baseline": {
+   "sha": "5999de3838d56cc024754ff278d1b4fe2f831290",
+   "date": "2019-08-07T19:16:56Z",
+   "author": "Larry Sallee",
+   "subject": "Fix format errors (#653)",
+   "ts": 165,
+   "pm": 129,
+   "dup": false
+  },
+  "first_drop_after_baseline": {
+   "sha": "1707e9f90695834c04902f51bfdad82ffdc60403",
+   "date": "2020-08-31T18:08:24Z",
+   "author": "Joel D. Ruark",
+   "subject": "UST Alignment review [NEH] (#753)",
+   "ts": 145
+  },
+  "chapters": 13,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 5,
+   "2": 10,
+   "3": 13,
+   "4": 9,
+   "5": 7,
+   "6": 6,
+   "7": 17,
+   "8": 6,
+   "9": 16,
+   "10": 13,
+   "11": 13,
+   "12": 17,
+   "13": 13
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "5": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "6": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "7": {
+    "sha": "current",
+    "date": null,
+    "ts": 17
+   },
+   "8": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "9": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "10": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "11": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "12": {
+    "sha": "current",
+    "date": null,
+    "ts": 17
+   },
+   "13": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   }
+  },
+  "commits_scanned": 60
+ },
+ "EST": {
+  "file": "17-EST.usfm",
+  "current_ts": 71,
+  "current_pm": 42,
+  "max_ts": 75,
+  "baseline": {
+   "sha": "3bb8b7699440c415b2772a1e5497752e11a4043e",
+   "date": "2026-09-23T16:56:41-04:00",
+   "author": "Richard Mahn",
+   "subject": "Restores \\p tags",
+   "ts": 72,
+   "pm": 42,
+   "dup": false
+  },
+  "first_drop_after_baseline": {
+   "sha": "f8fa4f0a52dfc2fffac42c87a94028dc0e53e850",
+   "date": "2026-09-23T17:30:43-04:00",
+   "author": "Richard Mahn",
+   "subject": "Fixes \\ts\\* tags that should be removed",
+   "ts": 71
+  },
+  "chapters": 10,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 8,
+   "2": 9,
+   "3": 8,
+   "4": 7,
+   "5": 6,
+   "6": 7,
+   "7": 5,
+   "8": 8,
+   "9": 12,
+   "10": 1
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "5": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "6": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "7": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "8": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "9": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "10": {
+    "sha": "current",
+    "date": null,
+    "ts": 1
+   }
+  },
+  "commits_scanned": 44
+ },
+ "JOB": {
+  "file": "18-JOB.usfm",
+  "current_ts": 434,
+  "current_pm": 54,
+  "max_ts": 434,
+  "baseline": {
+   "sha": "1a2b4e04f0d43fa565f68c99e6f346c33eaccf13",
+   "date": "2026-08-14T02:53:54Z",
+   "author": "Stephen Wunrow",
+   "subject": "Changing Qere to Ketiv in alignment (to match uhb) (#4525)",
+   "ts": 434,
+   "pm": 54,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 42,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 8,
+   "2": 7,
+   "3": 11,
+   "4": 9,
+   "5": 10,
+   "6": 11,
+   "7": 9,
+   "8": 9,
+   "9": 13,
+   "10": 9,
+   "11": 8,
+   "12": 10,
+   "13": 11,
+   "14": 8,
+   "15": 14,
+   "16": 9,
+   "17": 7,
+   "18": 10,
+   "19": 12,
+   "20": 12,
+   "21": 13,
+   "22": 11,
+   "23": 7,
+   "24": 11,
+   "25": 2,
+   "26": 6,
+   "27": 10,
+   "28": 11,
+   "29": 10,
+   "30": 13,
+   "31": 17,
+   "32": 9,
+   "33": 14,
+   "34": 14,
+   "35": 6,
+   "36": 14,
+   "37": 10,
+   "38": 17,
+   "39": 14,
+   "40": 10,
+   "41": 12,
+   "42": 6
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "5": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "6": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "7": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "8": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "9": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "10": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "11": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "12": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "13": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "14": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "15": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "16": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "17": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "18": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "19": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "20": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "21": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "22": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "23": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "24": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "25": {
+    "sha": "current",
+    "date": null,
+    "ts": 2
+   },
+   "26": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "27": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "28": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "29": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "30": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "31": {
+    "sha": "current",
+    "date": null,
+    "ts": 17
+   },
+   "32": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "33": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "34": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "35": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "36": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "37": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "38": {
+    "sha": "current",
+    "date": null,
+    "ts": 17
+   },
+   "39": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "40": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "41": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "42": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   }
+  },
+  "commits_scanned": 51
+ },
+ "PSA": {
+  "file": "19-PSA.usfm",
+  "current_ts": 1129,
+  "current_pm": 116,
+  "max_ts": 1137,
+  "baseline": {
+   "sha": "f8fa4f0a52dfc2fffac42c87a94028dc0e53e850",
+   "date": "2026-09-23T17:30:43-04:00",
+   "author": "Richard Mahn",
+   "subject": "Fixes \\ts\\* tags that should be removed",
+   "ts": 1129,
+   "pm": 116,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 150,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 3,
+   "2": 3,
+   "3": 4,
+   "4": 3,
+   "5": 4,
+   "6": 4,
+   "7": 7,
+   "8": 4,
+   "9": 9,
+   "10": 9,
+   "11": 3,
+   "12": 4,
+   "13": 2,
+   "14": 5,
+   "15": 3,
+   "16": 6,
+   "17": 8,
+   "18": 24,
+   "19": 6,
+   "20": 5,
+   "21": 7,
+   "22": 14,
+   "23": 5,
+   "24": 5,
+   "25": 10,
+   "26": 5,
+   "27": 8,
+   "28": 4,
+   "29": 5,
+   "30": 5,
+   "31": 11,
+   "32": 6,
+   "33": 11,
+   "34": 9,
+   "35": 12,
+   "36": 5,
+   "37": 18,
+   "38": 11,
+   "39": 7,
+   "40": 8,
+   "41": 5,
+   "42": 6,
+   "43": 3,
+   "44": 10,
+   "45": 8,
+   "46": 5,
+   "47": 4,
+   "48": 7,
+   "49": 9,
+   "50": 11,
+   "51": 8,
+   "52": 5,
+   "53": 1,
+   "54": 3,
+   "55": 11,
+   "56": 6,
+   "57": 6,
+   "58": 4,
+   "59": 9,
+   "60": 6,
+   "61": 4,
+   "62": 6,
+   "63": 6,
+   "64": 5,
+   "65": 7,
+   "66": 8,
+   "67": 4,
+   "68": 15,
+   "69": 16,
+   "70": 1,
+   "71": 11,
+   "72": 9,
+   "73": 12,
+   "74": 10,
+   "75": 4,
+   "76": 5,
+   "77": 11,
+   "78": 24,
+   "79": 6,
+   "80": 8,
+   "81": 7,
+   "82": 5,
+   "83": 9,
+   "84": 5,
+   "85": 6,
+   "86": 7,
+   "87": 4,
+   "88": 10,
+   "89": 21,
+   "90": 8,
+   "91": 7,
+   "92": 7,
+   "93": 3,
+   "94": 10,
+   "95": 5,
+   "96": 6,
+   "97": 5,
+   "98": 4,
+   "99": 4,
+   "100": 3,
+   "101": 4,
+   "102": 13,
+   "103": 8,
+   "104": 16,
+   "105": 16,
+   "106": 19,
+   "107": 15,
+   "108": 6,
+   "109": 13,
+   "110": 5,
+   "111": 4,
+   "112": 5,
+   "113": 5,
+   "114": 4,
+   "115": 8,
+   "116": 8,
+   "117": 1,
+   "118": 13,
+   "119": 88,
+   "120": 3,
+   "121": 4,
+   "122": 4,
+   "123": 2,
+   "124": 4,
+   "125": 2,
+   "126": 1,
+   "127": 1,
+   "128": 2,
+   "129": 3,
+   "130": 3,
+   "131": 3,
+   "132": 7,
+   "133": 2,
+   "134": 2,
+   "135": 8,
+   "136": 6,
+   "137": 5,
+   "138": 3,
+   "139": 24,
+   "140": 4,
+   "141": 4,
+   "142": 3,
+   "143": 6,
+   "144": 7,
+   "145": 9,
+   "146": 5,
+   "147": 10,
+   "148": 14,
+   "149": 9,
+   "150": 1
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 3
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 3
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 4
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 3
+   },
+   "5": {
+    "sha": "current",
+    "date": null,
+    "ts": 4
+   },
+   "6": {
+    "sha": "current",
+    "date": null,
+    "ts": 4
+   },
+   "7": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "8": {
+    "sha": "current",
+    "date": null,
+    "ts": 4
+   },
+   "9": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "10": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "11": {
+    "sha": "current",
+    "date": null,
+    "ts": 3
+   },
+   "12": {
+    "sha": "current",
+    "date": null,
+    "ts": 4
+   },
+   "13": {
+    "sha": "current",
+    "date": null,
+    "ts": 2
+   },
+   "14": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "15": {
+    "sha": "current",
+    "date": null,
+    "ts": 3
+   },
+   "16": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "17": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "18": {
+    "sha": "current",
+    "date": null,
+    "ts": 24
+   },
+   "19": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "20": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "21": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "22": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "23": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "24": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "25": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "26": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "27": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "28": {
+    "sha": "current",
+    "date": null,
+    "ts": 4
+   },
+   "29": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "30": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "31": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "32": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "33": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "34": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "35": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "36": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "37": {
+    "sha": "current",
+    "date": null,
+    "ts": 18
+   },
+   "38": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "39": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "40": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "41": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "42": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "43": {
+    "sha": "current",
+    "date": null,
+    "ts": 3
+   },
+   "44": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "45": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "46": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "47": {
+    "sha": "current",
+    "date": null,
+    "ts": 4
+   },
+   "48": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "49": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "50": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "51": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "52": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "53": {
+    "sha": "current",
+    "date": null,
+    "ts": 1
+   },
+   "54": {
+    "sha": "current",
+    "date": null,
+    "ts": 3
+   },
+   "55": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "56": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "57": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "58": {
+    "sha": "current",
+    "date": null,
+    "ts": 4
+   },
+   "59": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "60": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "61": {
+    "sha": "current",
+    "date": null,
+    "ts": 4
+   },
+   "62": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "63": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "64": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "65": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "66": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "67": {
+    "sha": "current",
+    "date": null,
+    "ts": 4
+   },
+   "68": {
+    "sha": "current",
+    "date": null,
+    "ts": 15
+   },
+   "69": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "70": {
+    "sha": "current",
+    "date": null,
+    "ts": 1
+   },
+   "71": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "72": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "73": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "74": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "75": {
+    "sha": "current",
+    "date": null,
+    "ts": 4
+   },
+   "76": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "77": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "78": {
+    "sha": "current",
+    "date": null,
+    "ts": 24
+   },
+   "79": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "80": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "81": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "82": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "83": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "84": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "85": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "86": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "87": {
+    "sha": "current",
+    "date": null,
+    "ts": 4
+   },
+   "88": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "89": {
+    "sha": "current",
+    "date": null,
+    "ts": 21
+   },
+   "90": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "91": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "92": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "93": {
+    "sha": "current",
+    "date": null,
+    "ts": 3
+   },
+   "94": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "95": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "96": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "97": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "98": {
+    "sha": "current",
+    "date": null,
+    "ts": 4
+   },
+   "99": {
+    "sha": "current",
+    "date": null,
+    "ts": 4
+   },
+   "100": {
+    "sha": "current",
+    "date": null,
+    "ts": 3
+   },
+   "101": {
+    "sha": "current",
+    "date": null,
+    "ts": 4
+   },
+   "102": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "103": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "104": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "105": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "106": {
+    "sha": "current",
+    "date": null,
+    "ts": 19
+   },
+   "107": {
+    "sha": "current",
+    "date": null,
+    "ts": 15
+   },
+   "108": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "109": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "110": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "111": {
+    "sha": "current",
+    "date": null,
+    "ts": 4
+   },
+   "112": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "113": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "114": {
+    "sha": "current",
+    "date": null,
+    "ts": 4
+   },
+   "115": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "116": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "117": {
+    "sha": "current",
+    "date": null,
+    "ts": 1
+   },
+   "118": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "119": {
+    "sha": "current",
+    "date": null,
+    "ts": 88
+   },
+   "120": {
+    "sha": "current",
+    "date": null,
+    "ts": 3
+   },
+   "121": {
+    "sha": "current",
+    "date": null,
+    "ts": 4
+   },
+   "122": {
+    "sha": "current",
+    "date": null,
+    "ts": 4
+   },
+   "123": {
+    "sha": "current",
+    "date": null,
+    "ts": 2
+   },
+   "124": {
+    "sha": "current",
+    "date": null,
+    "ts": 4
+   },
+   "125": {
+    "sha": "current",
+    "date": null,
+    "ts": 2
+   },
+   "126": {
+    "sha": "current",
+    "date": null,
+    "ts": 1
+   },
+   "127": {
+    "sha": "current",
+    "date": null,
+    "ts": 1
+   },
+   "128": {
+    "sha": "current",
+    "date": null,
+    "ts": 2
+   },
+   "129": {
+    "sha": "current",
+    "date": null,
+    "ts": 3
+   },
+   "130": {
+    "sha": "current",
+    "date": null,
+    "ts": 3
+   },
+   "131": {
+    "sha": "current",
+    "date": null,
+    "ts": 3
+   },
+   "132": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "133": {
+    "sha": "current",
+    "date": null,
+    "ts": 2
+   },
+   "134": {
+    "sha": "current",
+    "date": null,
+    "ts": 2
+   },
+   "135": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "136": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "137": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "138": {
+    "sha": "current",
+    "date": null,
+    "ts": 3
+   },
+   "139": {
+    "sha": "current",
+    "date": null,
+    "ts": 24
+   },
+   "140": {
+    "sha": "current",
+    "date": null,
+    "ts": 4
+   },
+   "141": {
+    "sha": "current",
+    "date": null,
+    "ts": 4
+   },
+   "142": {
+    "sha": "current",
+    "date": null,
+    "ts": 3
+   },
+   "143": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "144": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "145": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "146": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "147": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "148": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "149": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "150": {
+    "sha": "current",
+    "date": null,
+    "ts": 1
+   }
+  },
+  "commits_scanned": 871
+ },
+ "PRO": {
+  "file": "20-PRO.usfm",
+  "current_ts": 443,
+  "current_pm": 4,
+  "max_ts": 443,
+  "baseline": {
+   "sha": "1a2b4e04f0d43fa565f68c99e6f346c33eaccf13",
+   "date": "2026-08-14T02:53:54Z",
+   "author": "Stephen Wunrow",
+   "subject": "Changing Qere to Ketiv in alignment (to match uhb) (#4525)",
+   "ts": 443,
+   "pm": 4,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 31,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 12,
+   "2": 9,
+   "3": 18,
+   "4": 12,
+   "5": 11,
+   "6": 17,
+   "7": 11,
+   "8": 16,
+   "9": 9,
+   "10": 15,
+   "11": 16,
+   "12": 14,
+   "13": 13,
+   "14": 18,
+   "15": 17,
+   "16": 17,
+   "17": 14,
+   "18": 12,
+   "19": 15,
+   "20": 15,
+   "21": 16,
+   "22": 14,
+   "23": 15,
+   "24": 18,
+   "25": 15,
+   "26": 14,
+   "27": 13,
+   "28": 14,
+   "29": 14,
+   "30": 15,
+   "31": 14
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 18
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "5": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "6": {
+    "sha": "current",
+    "date": null,
+    "ts": 17
+   },
+   "7": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "8": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "9": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "10": {
+    "sha": "current",
+    "date": null,
+    "ts": 15
+   },
+   "11": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "12": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "13": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "14": {
+    "sha": "current",
+    "date": null,
+    "ts": 18
+   },
+   "15": {
+    "sha": "current",
+    "date": null,
+    "ts": 17
+   },
+   "16": {
+    "sha": "current",
+    "date": null,
+    "ts": 17
+   },
+   "17": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "18": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "19": {
+    "sha": "current",
+    "date": null,
+    "ts": 15
+   },
+   "20": {
+    "sha": "current",
+    "date": null,
+    "ts": 15
+   },
+   "21": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "22": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "23": {
+    "sha": "current",
+    "date": null,
+    "ts": 15
+   },
+   "24": {
+    "sha": "current",
+    "date": null,
+    "ts": 18
+   },
+   "25": {
+    "sha": "current",
+    "date": null,
+    "ts": 15
+   },
+   "26": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "27": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "28": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "29": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "30": {
+    "sha": "current",
+    "date": null,
+    "ts": 15
+   },
+   "31": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   }
+  },
+  "commits_scanned": 156
+ },
+ "ECC": {
+  "file": "21-ECC.usfm",
+  "current_ts": 98,
+  "current_pm": 19,
+  "max_ts": 115,
+  "baseline": {
+   "sha": "6312745a0782a9aaab4d67ae314d84fe4bfaa4ab",
+   "date": "2026-05-06T16:28:27-06:00",
+   "author": "Richard Mahn",
+   "subject": "updates USFM tag numbering",
+   "ts": 115,
+   "pm": 44,
+   "dup": false
+  },
+  "first_drop_after_baseline": {
+   "sha": "c4d6bb0ca0554be518e530dfbf763a9fda3f8df0",
+   "date": "2026-05-11T04:00:50-04:00",
+   "author": "Richard Mahn",
+   "subject": "Merge branch 'master' of git.door43.org:unfoldingWord/en_ust",
+   "ts": 109
+  },
+  "chapters": 12,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 6,
+   "2": 13,
+   "3": 11,
+   "4": 3,
+   "5": 11,
+   "6": 6,
+   "7": 17,
+   "8": 9,
+   "9": 3,
+   "10": 11,
+   "11": 4,
+   "12": 4
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 3
+   },
+   "5": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "6": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "7": {
+    "sha": "current",
+    "date": null,
+    "ts": 17
+   },
+   "8": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "9": {
+    "sha": "current",
+    "date": null,
+    "ts": 3
+   },
+   "10": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "11": {
+    "sha": "current",
+    "date": null,
+    "ts": 4
+   },
+   "12": {
+    "sha": "current",
+    "date": null,
+    "ts": 4
+   }
+  },
+  "commits_scanned": 75
+ },
+ "SNG": {
+  "file": "22-SNG.usfm",
+  "current_ts": 79,
+  "current_pm": 1,
+  "max_ts": 79,
+  "baseline": {
+   "sha": "1a2b4e04f0d43fa565f68c99e6f346c33eaccf13",
+   "date": "2026-08-14T02:53:54Z",
+   "author": "Stephen Wunrow",
+   "subject": "Changing Qere to Ketiv in alignment (to match uhb) (#4525)",
+   "ts": 79,
+   "pm": 1,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 8,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 8,
+   "2": 10,
+   "3": 6,
+   "4": 10,
+   "5": 13,
+   "6": 11,
+   "7": 9,
+   "8": 12
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "5": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "6": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "7": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "8": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   }
+  },
+  "commits_scanned": 38
+ },
+ "ISA": {
+  "file": "23-ISA.usfm",
+  "current_ts": 690,
+  "current_pm": 95,
+  "max_ts": 691,
+  "baseline": {
+   "sha": "9454fe94b0251fe048cd4062ecc50a772b375639",
+   "date": "2026-09-23T16:35:34-04:00",
+   "author": "Richard Mahn",
+   "subject": "Restores \\ts\\* tags",
+   "ts": 690,
+   "pm": 95,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 66,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 19,
+   "2": 10,
+   "3": 10,
+   "4": 3,
+   "5": 16,
+   "6": 8,
+   "7": 10,
+   "8": 10,
+   "9": 10,
+   "10": 16,
+   "11": 8,
+   "12": 3,
+   "13": 10,
+   "14": 13,
+   "15": 4,
+   "16": 8,
+   "17": 6,
+   "18": 4,
+   "19": 13,
+   "20": 3,
+   "21": 9,
+   "22": 11,
+   "23": 8,
+   "24": 11,
+   "25": 5,
+   "26": 12,
+   "27": 7,
+   "28": 16,
+   "29": 12,
+   "30": 19,
+   "31": 5,
+   "32": 8,
+   "33": 13,
+   "34": 8,
+   "35": 5,
+   "36": 10,
+   "37": 18,
+   "38": 10,
+   "39": 4,
+   "40": 14,
+   "41": 15,
+   "42": 15,
+   "43": 15,
+   "44": 21,
+   "45": 17,
+   "46": 7,
+   "47": 7,
+   "48": 12,
+   "49": 16,
+   "50": 8,
+   "51": 16,
+   "52": 9,
+   "53": 9,
+   "54": 10,
+   "55": 8,
+   "56": 7,
+   "57": 12,
+   "58": 10,
+   "59": 12,
+   "60": 12,
+   "61": 7,
+   "62": 7,
+   "63": 12,
+   "64": 6,
+   "65": 14,
+   "66": 17
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 19
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 3
+   },
+   "5": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "6": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "7": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "8": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "9": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "10": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "11": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "12": {
+    "sha": "current",
+    "date": null,
+    "ts": 3
+   },
+   "13": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "14": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "15": {
+    "sha": "current",
+    "date": null,
+    "ts": 4
+   },
+   "16": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "17": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "18": {
+    "sha": "current",
+    "date": null,
+    "ts": 4
+   },
+   "19": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "20": {
+    "sha": "current",
+    "date": null,
+    "ts": 3
+   },
+   "21": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "22": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "23": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "24": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "25": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "26": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "27": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "28": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "29": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "30": {
+    "sha": "current",
+    "date": null,
+    "ts": 19
+   },
+   "31": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "32": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "33": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "34": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "35": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "36": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "37": {
+    "sha": "current",
+    "date": null,
+    "ts": 18
+   },
+   "38": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "39": {
+    "sha": "current",
+    "date": null,
+    "ts": 4
+   },
+   "40": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "41": {
+    "sha": "current",
+    "date": null,
+    "ts": 15
+   },
+   "42": {
+    "sha": "current",
+    "date": null,
+    "ts": 15
+   },
+   "43": {
+    "sha": "current",
+    "date": null,
+    "ts": 15
+   },
+   "44": {
+    "sha": "current",
+    "date": null,
+    "ts": 21
+   },
+   "45": {
+    "sha": "current",
+    "date": null,
+    "ts": 17
+   },
+   "46": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "47": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "48": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "49": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "50": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "51": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "52": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "53": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "54": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "55": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "56": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "57": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "58": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "59": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "60": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "61": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "62": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "63": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "64": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "65": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "66": {
+    "sha": "current",
+    "date": null,
+    "ts": 17
+   }
+  },
+  "commits_scanned": 67
+ },
+ "JER": {
+  "file": "24-JER.usfm",
+  "current_ts": 557,
+  "current_pm": 295,
+  "max_ts": 571,
+  "baseline": {
+   "sha": "c87251bc84a3d668a3ee06233b371a01a984c7ec",
+   "date": "2026-09-23T20:39:14Z",
+   "author": "Benjamin Wright",
+   "subject": "bible-editor: JER ust → master (#4726)",
+   "ts": 557,
+   "pm": 295,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 52,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 8,
+   "2": 13,
+   "3": 11,
+   "4": 12,
+   "5": 11,
+   "6": 11,
+   "7": 13,
+   "8": 9,
+   "9": 11,
+   "10": 10,
+   "11": 10,
+   "12": 8,
+   "13": 8,
+   "14": 9,
+   "15": 9,
+   "16": 8,
+   "17": 12,
+   "18": 8,
+   "19": 6,
+   "20": 8,
+   "21": 5,
+   "22": 14,
+   "23": 12,
+   "24": 3,
+   "25": 16,
+   "26": 9,
+   "27": 9,
+   "28": 7,
+   "29": 6,
+   "30": 11,
+   "31": 19,
+   "32": 18,
+   "33": 10,
+   "34": 9,
+   "35": 8,
+   "36": 13,
+   "37": 9,
+   "38": 13,
+   "39": 7,
+   "40": 8,
+   "41": 9,
+   "42": 8,
+   "43": 4,
+   "44": 13,
+   "45": 2,
+   "46": 12,
+   "47": 3,
+   "48": 20,
+   "49": 19,
+   "50": 22,
+   "51": 31,
+   "52": 13
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "5": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "6": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "7": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "8": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "9": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "10": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "11": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "12": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "13": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "14": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "15": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "16": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "17": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "18": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "19": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "20": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "21": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "22": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "23": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "24": {
+    "sha": "current",
+    "date": null,
+    "ts": 3
+   },
+   "25": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "26": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "27": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "28": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "29": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "30": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "31": {
+    "sha": "current",
+    "date": null,
+    "ts": 19
+   },
+   "32": {
+    "sha": "current",
+    "date": null,
+    "ts": 18
+   },
+   "33": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "34": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "35": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "36": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "37": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "38": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "39": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "40": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "41": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "42": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "43": {
+    "sha": "current",
+    "date": null,
+    "ts": 4
+   },
+   "44": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "45": {
+    "sha": "current",
+    "date": null,
+    "ts": 2
+   },
+   "46": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "47": {
+    "sha": "current",
+    "date": null,
+    "ts": 3
+   },
+   "48": {
+    "sha": "current",
+    "date": null,
+    "ts": 20
+   },
+   "49": {
+    "sha": "current",
+    "date": null,
+    "ts": 19
+   },
+   "50": {
+    "sha": "current",
+    "date": null,
+    "ts": 22
+   },
+   "51": {
+    "sha": "current",
+    "date": null,
+    "ts": 31
+   },
+   "52": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   }
+  },
+  "commits_scanned": 689
+ },
+ "LAM": {
+  "file": "25-LAM.usfm",
+  "current_ts": 67,
+  "current_pm": 0,
+  "max_ts": 78,
+  "baseline": {
+   "sha": "cc143df2f630c489eed5324472dd0f10178c0347",
+   "date": "2026-03-19T01:38:55Z",
+   "author": "benjamin-test",
+   "subject": "Merge pull request 'AI UST for LAM 3 [deferredreward]' (#3293) from AI-LAM-03 into master",
+   "ts": 77,
+   "pm": 0,
+   "dup": true
+  },
+  "first_drop_after_baseline": {
+   "sha": "6bce413bf2f8d246f7097759ad357a897f800075",
+   "date": "2026-03-19T02:58:19Z",
+   "author": "benjamin-test",
+   "subject": "Merge pull request 'AI UST for LAM 2 [benjamin-test]' (#3294) from AI-LAM-02 into master",
+   "ts": 61
+  },
+  "chapters": 5,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 22,
+   "2": 5,
+   "3": 19,
+   "4": 13,
+   "5": 8
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 22
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 19
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "5": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   }
+  },
+  "commits_scanned": 114
+ },
+ "EZK": {
+  "file": "26-EZK.usfm",
+  "current_ts": 550,
+  "current_pm": 279,
+  "max_ts": 550,
+  "baseline": {
+   "sha": "3bb8b7699440c415b2772a1e5497752e11a4043e",
+   "date": "2026-09-23T16:56:41-04:00",
+   "author": "Richard Mahn",
+   "subject": "Restores \\p tags",
+   "ts": 550,
+   "pm": 279,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 48,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 12,
+   "2": 5,
+   "3": 11,
+   "4": 7,
+   "5": 8,
+   "6": 6,
+   "7": 11,
+   "8": 9,
+   "9": 5,
+   "10": 8,
+   "11": 11,
+   "12": 12,
+   "13": 10,
+   "14": 11,
+   "15": 3,
+   "16": 28,
+   "17": 11,
+   "18": 18,
+   "19": 6,
+   "20": 21,
+   "21": 15,
+   "22": 11,
+   "23": 23,
+   "24": 13,
+   "25": 7,
+   "26": 9,
+   "27": 15,
+   "28": 11,
+   "29": 10,
+   "30": 12,
+   "31": 10,
+   "32": 16,
+   "33": 13,
+   "34": 12,
+   "35": 6,
+   "36": 15,
+   "37": 11,
+   "38": 9,
+   "39": 13,
+   "40": 20,
+   "41": 10,
+   "42": 8,
+   "43": 12,
+   "44": 14,
+   "45": 11,
+   "46": 9,
+   "47": 9,
+   "48": 13
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "5": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "6": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "7": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "8": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "9": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "10": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "11": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "12": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "13": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "14": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "15": {
+    "sha": "current",
+    "date": null,
+    "ts": 3
+   },
+   "16": {
+    "sha": "current",
+    "date": null,
+    "ts": 28
+   },
+   "17": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "18": {
+    "sha": "current",
+    "date": null,
+    "ts": 18
+   },
+   "19": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "20": {
+    "sha": "current",
+    "date": null,
+    "ts": 21
+   },
+   "21": {
+    "sha": "current",
+    "date": null,
+    "ts": 15
+   },
+   "22": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "23": {
+    "sha": "current",
+    "date": null,
+    "ts": 23
+   },
+   "24": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "25": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "26": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "27": {
+    "sha": "current",
+    "date": null,
+    "ts": 15
+   },
+   "28": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "29": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "30": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "31": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "32": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "33": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "34": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "35": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "36": {
+    "sha": "current",
+    "date": null,
+    "ts": 15
+   },
+   "37": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "38": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "39": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "40": {
+    "sha": "current",
+    "date": null,
+    "ts": 20
+   },
+   "41": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "42": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "43": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "44": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "45": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "46": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "47": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "48": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   }
+  },
+  "commits_scanned": 166
+ },
+ "DAN": {
+  "file": "27-DAN.usfm",
+  "current_ts": 171,
+  "current_pm": 137,
+  "max_ts": 175,
+  "baseline": {
+   "sha": "7849716084460064ef2f65d723385c52867111af",
+   "date": "2026-09-23T06:00:45Z",
+   "author": "Benjamin Wright",
+   "subject": "bible-editor: DAN ust → master (#4720)",
+   "ts": 171,
+   "pm": 137,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 12,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 8,
+   "2": 24,
+   "3": 13,
+   "4": 16,
+   "5": 14,
+   "6": 16,
+   "7": 15,
+   "8": 14,
+   "9": 13,
+   "10": 10,
+   "11": 21,
+   "12": 7
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 24
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "5": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "6": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "7": {
+    "sha": "current",
+    "date": null,
+    "ts": 15
+   },
+   "8": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "9": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "10": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "11": {
+    "sha": "current",
+    "date": null,
+    "ts": 21
+   },
+   "12": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   }
+  },
+  "commits_scanned": 47
+ },
+ "HOS": {
+  "file": "28-HOS.usfm",
+  "current_ts": 120,
+  "current_pm": 8,
+  "max_ts": 120,
+  "baseline": {
+   "sha": "9454fe94b0251fe048cd4062ecc50a772b375639",
+   "date": "2026-09-23T16:35:34-04:00",
+   "author": "Richard Mahn",
+   "subject": "Restores \\ts\\* tags",
+   "ts": 120,
+   "pm": 8,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 14,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 6,
+   "2": 13,
+   "3": 2,
+   "4": 19,
+   "5": 14,
+   "6": 3,
+   "7": 12,
+   "8": 6,
+   "9": 10,
+   "10": 8,
+   "11": 6,
+   "12": 7,
+   "13": 9,
+   "14": 5
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 2
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 19
+   },
+   "5": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "6": {
+    "sha": "current",
+    "date": null,
+    "ts": 3
+   },
+   "7": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "8": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "9": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "10": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "11": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "12": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "13": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "14": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   }
+  },
+  "commits_scanned": 130
+ },
+ "JOL": {
+  "file": "29-JOL.usfm",
+  "current_ts": 36,
+  "current_pm": 6,
+  "max_ts": 36,
+  "baseline": {
+   "sha": "1a2b4e04f0d43fa565f68c99e6f346c33eaccf13",
+   "date": "2026-08-14T02:53:54Z",
+   "author": "Stephen Wunrow",
+   "subject": "Changing Qere to Ketiv in alignment (to match uhb) (#4525)",
+   "ts": 36,
+   "pm": 6,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 3,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 8,
+   "2": 18,
+   "3": 10
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 18
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   }
+  },
+  "commits_scanned": 33
+ },
+ "AMO": {
+  "file": "30-AMO.usfm",
+  "current_ts": 77,
+  "current_pm": 34,
+  "max_ts": 77,
+  "baseline": {
+   "sha": "9454fe94b0251fe048cd4062ecc50a772b375639",
+   "date": "2026-09-23T16:35:34-04:00",
+   "author": "Richard Mahn",
+   "subject": "Restores \\ts\\* tags",
+   "ts": 77,
+   "pm": 34,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 9,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 9,
+   "2": 9,
+   "3": 8,
+   "4": 7,
+   "5": 14,
+   "6": 8,
+   "7": 8,
+   "8": 6,
+   "9": 8
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "5": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "6": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "7": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "8": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "9": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   }
+  },
+  "commits_scanned": 81
+ },
+ "OBA": {
+  "file": "31-OBA.usfm",
+  "current_ts": 9,
+  "current_pm": 1,
+  "max_ts": 10,
+  "baseline": {
+   "sha": "6dc2a0bd32a7a3ecf696f8525cd5845a5a80a7c3",
+   "date": "2019-07-08T13:06:52Z",
+   "author": "Larry Sallee",
+   "subject": "Add curly quotes (#647)",
+   "ts": 10,
+   "pm": 2,
+   "dup": false
+  },
+  "first_drop_after_baseline": {
+   "sha": "c4e1f6a6416e3d3af84cda16b0e0c45ad214fd7c",
+   "date": "2020-05-21T18:54:55Z",
+   "author": "Joel D. Ruark",
+   "subject": "Update \\ts\\* and \\p markers [OBA] (#723)",
+   "ts": 9
+  },
+  "chapters": 1,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 9
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   }
+  },
+  "commits_scanned": 26
+ },
+ "JON": {
+  "file": "32-JON.usfm",
+  "current_ts": 25,
+  "current_pm": 24,
+  "max_ts": 25,
+  "baseline": {
+   "sha": "6312745a0782a9aaab4d67ae314d84fe4bfaa4ab",
+   "date": "2026-05-06T16:28:27-06:00",
+   "author": "Richard Mahn",
+   "subject": "updates USFM tag numbering",
+   "ts": 25,
+   "pm": 24,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 4,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 10,
+   "2": 5,
+   "3": 5,
+   "4": 5
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   }
+  },
+  "commits_scanned": 39
+ },
+ "MIC": {
+  "file": "33-MIC.usfm",
+  "current_ts": 51,
+  "current_pm": 2,
+  "max_ts": 51,
+  "baseline": {
+   "sha": "9454fe94b0251fe048cd4062ecc50a772b375639",
+   "date": "2026-09-23T16:35:34-04:00",
+   "author": "Richard Mahn",
+   "subject": "Restores \\ts\\* tags",
+   "ts": 51,
+   "pm": 2,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 7,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 8,
+   "2": 5,
+   "3": 6,
+   "4": 7,
+   "5": 7,
+   "6": 7,
+   "7": 11
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "5": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "6": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "7": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   }
+  },
+  "commits_scanned": 71
+ },
+ "NAM": {
+  "file": "34-NAM.usfm",
+  "current_ts": 26,
+  "current_pm": 1,
+  "max_ts": 26,
+  "baseline": {
+   "sha": "1a2b4e04f0d43fa565f68c99e6f346c33eaccf13",
+   "date": "2026-08-14T02:53:54Z",
+   "author": "Stephen Wunrow",
+   "subject": "Changing Qere to Ketiv in alignment (to match uhb) (#4525)",
+   "ts": 26,
+   "pm": 1,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 3,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 9,
+   "2": 7,
+   "3": 10
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   }
+  },
+  "commits_scanned": 37
+ },
+ "HAB": {
+  "file": "35-HAB.usfm",
+  "current_ts": 29,
+  "current_pm": 3,
+  "max_ts": 29,
+  "baseline": {
+   "sha": "9454fe94b0251fe048cd4062ecc50a772b375639",
+   "date": "2026-09-23T16:35:34-04:00",
+   "author": "Richard Mahn",
+   "subject": "Restores \\ts\\* tags",
+   "ts": 29,
+   "pm": 3,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 3,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 8,
+   "2": 9,
+   "3": 12
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   }
+  },
+  "commits_scanned": 43
+ },
+ "ZEP": {
+  "file": "36-ZEP.usfm",
+  "current_ts": 24,
+  "current_pm": 3,
+  "max_ts": 24,
+  "baseline": {
+   "sha": "9454fe94b0251fe048cd4062ecc50a772b375639",
+   "date": "2026-09-23T16:35:34-04:00",
+   "author": "Richard Mahn",
+   "subject": "Restores \\ts\\* tags",
+   "ts": 24,
+   "pm": 3,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 3,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 7,
+   "2": 7,
+   "3": 10
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   }
+  },
+  "commits_scanned": 27
+ },
+ "HAG": {
+  "file": "37-HAG.usfm",
+  "current_ts": 16,
+  "current_pm": 2,
+  "max_ts": 16,
+  "baseline": {
+   "sha": "9454fe94b0251fe048cd4062ecc50a772b375639",
+   "date": "2026-09-23T16:35:34-04:00",
+   "author": "Richard Mahn",
+   "subject": "Restores \\ts\\* tags",
+   "ts": 16,
+   "pm": 2,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 2,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 6,
+   "2": 10
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   }
+  },
+  "commits_scanned": 22
+ },
+ "ZEC": {
+  "file": "38-ZEC.usfm",
+  "current_ts": 93,
+  "current_pm": 79,
+  "max_ts": 94,
+  "baseline": {
+   "sha": "3bb8b7699440c415b2772a1e5497752e11a4043e",
+   "date": "2026-09-23T16:56:41-04:00",
+   "author": "Richard Mahn",
+   "subject": "Restores \\p tags",
+   "ts": 93,
+   "pm": 79,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 14,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 9,
+   "2": 6,
+   "3": 5,
+   "4": 6,
+   "5": 5,
+   "6": 6,
+   "7": 4,
+   "8": 10,
+   "9": 8,
+   "10": 6,
+   "11": 7,
+   "12": 6,
+   "13": 5,
+   "14": 10
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "5": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "6": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "7": {
+    "sha": "current",
+    "date": null,
+    "ts": 4
+   },
+   "8": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "9": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "10": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "11": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "12": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "13": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "14": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   }
+  },
+  "commits_scanned": 90
+ },
+ "MAL": {
+  "file": "39-MAL.usfm",
+  "current_ts": 24,
+  "current_pm": 11,
+  "max_ts": 24,
+  "baseline": {
+   "sha": "9454fe94b0251fe048cd4062ecc50a772b375639",
+   "date": "2026-09-23T16:35:34-04:00",
+   "author": "Richard Mahn",
+   "subject": "Restores \\ts\\* tags",
+   "ts": 24,
+   "pm": 11,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 4,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 6,
+   "2": 8,
+   "3": 8,
+   "4": 2
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 2
+   }
+  },
+  "commits_scanned": 24
+ },
+ "MAT": {
+  "file": "41-MAT.usfm",
+  "current_ts": 430,
+  "current_pm": 434,
+  "max_ts": 431,
+  "baseline": {
+   "sha": "765a0fedde80387dca124dbe445a09a7b58e41bb",
+   "date": "2026-08-17T13:01:48-04:00",
+   "author": "Richard Mahn",
+   "subject": "Reverts BE changes",
+   "ts": 430,
+   "pm": 434,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 28,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 10,
+   "2": 10,
+   "3": 6,
+   "4": 10,
+   "5": 20,
+   "6": 13,
+   "7": 12,
+   "8": 14,
+   "9": 17,
+   "10": 17,
+   "11": 12,
+   "12": 23,
+   "13": 24,
+   "14": 14,
+   "15": 13,
+   "16": 11,
+   "17": 11,
+   "18": 16,
+   "19": 13,
+   "20": 13,
+   "21": 19,
+   "22": 19,
+   "23": 16,
+   "24": 19,
+   "25": 16,
+   "26": 28,
+   "27": 25,
+   "28": 9
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "5": {
+    "sha": "current",
+    "date": null,
+    "ts": 20
+   },
+   "6": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "7": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "8": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "9": {
+    "sha": "current",
+    "date": null,
+    "ts": 17
+   },
+   "10": {
+    "sha": "current",
+    "date": null,
+    "ts": 17
+   },
+   "11": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "12": {
+    "sha": "current",
+    "date": null,
+    "ts": 23
+   },
+   "13": {
+    "sha": "current",
+    "date": null,
+    "ts": 24
+   },
+   "14": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "15": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "16": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "17": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "18": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "19": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "20": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "21": {
+    "sha": "current",
+    "date": null,
+    "ts": 19
+   },
+   "22": {
+    "sha": "current",
+    "date": null,
+    "ts": 19
+   },
+   "23": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "24": {
+    "sha": "current",
+    "date": null,
+    "ts": 19
+   },
+   "25": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "26": {
+    "sha": "current",
+    "date": null,
+    "ts": 28
+   },
+   "27": {
+    "sha": "current",
+    "date": null,
+    "ts": 25
+   },
+   "28": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   }
+  },
+  "commits_scanned": 100
+ },
+ "MRK": {
+  "file": "42-MRK.usfm",
+  "current_ts": 269,
+  "current_pm": 321,
+  "max_ts": 269,
+  "baseline": {
+   "sha": "765a0fedde80387dca124dbe445a09a7b58e41bb",
+   "date": "2026-08-17T13:01:48-04:00",
+   "author": "Richard Mahn",
+   "subject": "Reverts BE changes",
+   "ts": 269,
+   "pm": 321,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 16,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 18,
+   "2": 14,
+   "3": 14,
+   "4": 16,
+   "5": 18,
+   "6": 22,
+   "7": 15,
+   "8": 16,
+   "9": 20,
+   "10": 19,
+   "11": 13,
+   "12": 17,
+   "13": 14,
+   "14": 27,
+   "15": 17,
+   "16": 9
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 18
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "5": {
+    "sha": "current",
+    "date": null,
+    "ts": 18
+   },
+   "6": {
+    "sha": "current",
+    "date": null,
+    "ts": 22
+   },
+   "7": {
+    "sha": "current",
+    "date": null,
+    "ts": 15
+   },
+   "8": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "9": {
+    "sha": "current",
+    "date": null,
+    "ts": 20
+   },
+   "10": {
+    "sha": "current",
+    "date": null,
+    "ts": 19
+   },
+   "11": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "12": {
+    "sha": "current",
+    "date": null,
+    "ts": 17
+   },
+   "13": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "14": {
+    "sha": "current",
+    "date": null,
+    "ts": 27
+   },
+   "15": {
+    "sha": "current",
+    "date": null,
+    "ts": 17
+   },
+   "16": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   }
+  },
+  "commits_scanned": 100
+ },
+ "LUK": {
+  "file": "43-LUK.usfm",
+  "current_ts": 491,
+  "current_pm": 219,
+  "max_ts": 491,
+  "baseline": {
+   "sha": "aa857b917b8f59371ad82df556e70a549c0975fc",
+   "date": "2026-08-08T06:28:03Z",
+   "author": "Benjamin Wright",
+   "subject": "bible-editor: LUK ust → master (#4470)",
+   "ts": 491,
+   "pm": 219,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 24,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 30,
+   "2": 20,
+   "3": 20,
+   "4": 19,
+   "5": 16,
+   "6": 23,
+   "7": 19,
+   "8": 24,
+   "9": 25,
+   "10": 18,
+   "11": 25,
+   "12": 25,
+   "13": 15,
+   "14": 14,
+   "15": 13,
+   "16": 15,
+   "17": 16,
+   "18": 18,
+   "19": 21,
+   "20": 20,
+   "21": 16,
+   "22": 31,
+   "23": 25,
+   "24": 23
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 30
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 20
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 20
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 19
+   },
+   "5": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "6": {
+    "sha": "current",
+    "date": null,
+    "ts": 23
+   },
+   "7": {
+    "sha": "current",
+    "date": null,
+    "ts": 19
+   },
+   "8": {
+    "sha": "current",
+    "date": null,
+    "ts": 24
+   },
+   "9": {
+    "sha": "current",
+    "date": null,
+    "ts": 25
+   },
+   "10": {
+    "sha": "current",
+    "date": null,
+    "ts": 18
+   },
+   "11": {
+    "sha": "current",
+    "date": null,
+    "ts": 25
+   },
+   "12": {
+    "sha": "current",
+    "date": null,
+    "ts": 25
+   },
+   "13": {
+    "sha": "current",
+    "date": null,
+    "ts": 15
+   },
+   "14": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "15": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "16": {
+    "sha": "current",
+    "date": null,
+    "ts": 15
+   },
+   "17": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "18": {
+    "sha": "current",
+    "date": null,
+    "ts": 18
+   },
+   "19": {
+    "sha": "current",
+    "date": null,
+    "ts": 21
+   },
+   "20": {
+    "sha": "current",
+    "date": null,
+    "ts": 20
+   },
+   "21": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "22": {
+    "sha": "current",
+    "date": null,
+    "ts": 31
+   },
+   "23": {
+    "sha": "current",
+    "date": null,
+    "ts": 25
+   },
+   "24": {
+    "sha": "current",
+    "date": null,
+    "ts": 23
+   }
+  },
+  "commits_scanned": 89
+ },
+ "JHN": {
+  "file": "44-JHN.usfm",
+  "current_ts": 362,
+  "current_pm": 185,
+  "max_ts": 362,
+  "baseline": {
+   "sha": "0d4e155ba762400c3be4c13bb5dfa82323a9894a",
+   "date": "2026-08-08T06:25:41Z",
+   "author": "Benjamin Wright",
+   "subject": "bible-editor: JHN ust → master (#4467)",
+   "ts": 362,
+   "pm": 185,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 21,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 20,
+   "2": 11,
+   "3": 15,
+   "4": 24,
+   "5": 21,
+   "6": 28,
+   "7": 24,
+   "8": 23,
+   "9": 16,
+   "10": 17,
+   "11": 23,
+   "12": 21,
+   "13": 14,
+   "14": 12,
+   "15": 12,
+   "16": 13,
+   "17": 11,
+   "18": 16,
+   "19": 17,
+   "20": 13,
+   "21": 11
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 20
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 15
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 24
+   },
+   "5": {
+    "sha": "current",
+    "date": null,
+    "ts": 21
+   },
+   "6": {
+    "sha": "current",
+    "date": null,
+    "ts": 28
+   },
+   "7": {
+    "sha": "current",
+    "date": null,
+    "ts": 24
+   },
+   "8": {
+    "sha": "current",
+    "date": null,
+    "ts": 23
+   },
+   "9": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "10": {
+    "sha": "current",
+    "date": null,
+    "ts": 17
+   },
+   "11": {
+    "sha": "current",
+    "date": null,
+    "ts": 23
+   },
+   "12": {
+    "sha": "current",
+    "date": null,
+    "ts": 21
+   },
+   "13": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "14": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "15": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "16": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "17": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "18": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "19": {
+    "sha": "current",
+    "date": null,
+    "ts": 17
+   },
+   "20": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "21": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   }
+  },
+  "commits_scanned": 84
+ },
+ "ACT": {
+  "file": "45-ACT.usfm",
+  "current_ts": 400,
+  "current_pm": 266,
+  "max_ts": 400,
+  "baseline": {
+   "sha": "c4811bb32617a4ff75a597913f03c8d83d45cb04",
+   "date": "2026-08-13T05:50:07Z",
+   "author": "Benjamin Wright",
+   "subject": "bible-editor: ACT ust → master (#4515)",
+   "ts": 400,
+   "pm": 266,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 28,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 10,
+   "2": 18,
+   "3": 11,
+   "4": 15,
+   "5": 16,
+   "6": 7,
+   "7": 23,
+   "8": 16,
+   "9": 16,
+   "10": 18,
+   "11": 11,
+   "12": 12,
+   "13": 22,
+   "14": 11,
+   "15": 16,
+   "16": 16,
+   "17": 15,
+   "18": 12,
+   "19": 16,
+   "20": 14,
+   "21": 17,
+   "22": 12,
+   "23": 15,
+   "24": 10,
+   "25": 10,
+   "26": 11,
+   "27": 16,
+   "28": 14
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 18
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 15
+   },
+   "5": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "6": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "7": {
+    "sha": "current",
+    "date": null,
+    "ts": 23
+   },
+   "8": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "9": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "10": {
+    "sha": "current",
+    "date": null,
+    "ts": 18
+   },
+   "11": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "12": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "13": {
+    "sha": "current",
+    "date": null,
+    "ts": 22
+   },
+   "14": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "15": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "16": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "17": {
+    "sha": "current",
+    "date": null,
+    "ts": 15
+   },
+   "18": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "19": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "20": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "21": {
+    "sha": "current",
+    "date": null,
+    "ts": 17
+   },
+   "22": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "23": {
+    "sha": "current",
+    "date": null,
+    "ts": 15
+   },
+   "24": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "25": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "26": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "27": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "28": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   }
+  },
+  "commits_scanned": 73
+ },
+ "ROM": {
+  "file": "46-ROM.usfm",
+  "current_ts": 197,
+  "current_pm": 91,
+  "max_ts": 197,
+  "baseline": {
+   "sha": "4d38291b1499b36446e786108a8b8177bccc09c7",
+   "date": "2026-05-11T09:52:35Z",
+   "author": "richmahn",
+   "subject": "Merge auto-richmahn-ROM into master by richmahn (#3712)",
+   "ts": 197,
+   "pm": 91,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 16,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 15,
+   "2": 12,
+   "3": 15,
+   "4": 10,
+   "5": 10,
+   "6": 10,
+   "7": 13,
+   "8": 17,
+   "9": 13,
+   "10": 10,
+   "11": 17,
+   "12": 9,
+   "13": 6,
+   "14": 11,
+   "15": 17,
+   "16": 12
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 15
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 15
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "5": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "6": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "7": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "8": {
+    "sha": "current",
+    "date": null,
+    "ts": 17
+   },
+   "9": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "10": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "11": {
+    "sha": "current",
+    "date": null,
+    "ts": 17
+   },
+   "12": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "13": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "14": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "15": {
+    "sha": "current",
+    "date": null,
+    "ts": 17
+   },
+   "16": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   }
+  },
+  "commits_scanned": 80
+ },
+ "1CO": {
+  "file": "47-1CO.usfm",
+  "current_ts": 177,
+  "current_pm": 106,
+  "max_ts": 178,
+  "baseline": {
+   "sha": "baa5051c9f5f163572492c64e435a9bb13839071",
+   "date": "2026-06-06T09:09:45-04:00",
+   "author": "Richard Mahn",
+   "subject": "USFM cleanup",
+   "ts": 177,
+   "pm": 106,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 16,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 14,
+   "2": 7,
+   "3": 10,
+   "4": 10,
+   "5": 5,
+   "6": 9,
+   "7": 16,
+   "8": 5,
+   "9": 10,
+   "10": 12,
+   "11": 13,
+   "12": 11,
+   "13": 4,
+   "14": 16,
+   "15": 26,
+   "16": 9
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "5": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "6": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "7": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "8": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "9": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "10": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "11": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "12": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "13": {
+    "sha": "current",
+    "date": null,
+    "ts": 4
+   },
+   "14": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "15": {
+    "sha": "current",
+    "date": null,
+    "ts": 26
+   },
+   "16": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   }
+  },
+  "commits_scanned": 39
+ },
+ "2CO": {
+  "file": "48-2CO.usfm",
+  "current_ts": 110,
+  "current_pm": 68,
+  "max_ts": 110,
+  "baseline": {
+   "sha": "baa5051c9f5f163572492c64e435a9bb13839071",
+   "date": "2026-06-06T09:09:45-04:00",
+   "author": "Richard Mahn",
+   "subject": "USFM cleanup",
+   "ts": 110,
+   "pm": 68,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 13,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 11,
+   "2": 8,
+   "3": 7,
+   "4": 7,
+   "5": 9,
+   "6": 6,
+   "7": 7,
+   "8": 10,
+   "9": 6,
+   "10": 9,
+   "11": 14,
+   "12": 9,
+   "13": 7
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "5": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "6": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "7": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "8": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "9": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "10": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "11": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "12": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "13": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   }
+  },
+  "commits_scanned": 36
+ },
+ "GAL": {
+  "file": "49-GAL.usfm",
+  "current_ts": 57,
+  "current_pm": 29,
+  "max_ts": 60,
+  "baseline": {
+   "sha": "6312745a0782a9aaab4d67ae314d84fe4bfaa4ab",
+   "date": "2026-05-06T16:28:27-06:00",
+   "author": "Richard Mahn",
+   "subject": "updates USFM tag numbering",
+   "ts": 57,
+   "pm": 29,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 6,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 9,
+   "2": 7,
+   "3": 11,
+   "4": 13,
+   "5": 10,
+   "6": 7
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "5": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "6": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   }
+  },
+  "commits_scanned": 37
+ },
+ "EPH": {
+  "file": "50-EPH.usfm",
+  "current_ts": 61,
+  "current_pm": 37,
+  "max_ts": 61,
+  "baseline": {
+   "sha": "6312745a0782a9aaab4d67ae314d84fe4bfaa4ab",
+   "date": "2026-05-06T16:28:27-06:00",
+   "author": "Richard Mahn",
+   "subject": "updates USFM tag numbering",
+   "ts": 61,
+   "pm": 37,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 6,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 11,
+   "2": 7,
+   "3": 9,
+   "4": 12,
+   "5": 11,
+   "6": 11
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "5": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "6": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   }
+  },
+  "commits_scanned": 46
+ },
+ "PHP": {
+  "file": "51-PHP.usfm",
+  "current_ts": 37,
+  "current_pm": 30,
+  "max_ts": 37,
+  "baseline": {
+   "sha": "6312745a0782a9aaab4d67ae314d84fe4bfaa4ab",
+   "date": "2026-05-06T16:28:27-06:00",
+   "author": "Richard Mahn",
+   "subject": "updates USFM tag numbering",
+   "ts": 37,
+   "pm": 30,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 4,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 11,
+   "2": 11,
+   "3": 8,
+   "4": 7
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   }
+  },
+  "commits_scanned": 36
+ },
+ "COL": {
+  "file": "52-COL.usfm",
+  "current_ts": 35,
+  "current_pm": 26,
+  "max_ts": 35,
+  "baseline": {
+   "sha": "6312745a0782a9aaab4d67ae314d84fe4bfaa4ab",
+   "date": "2026-05-06T16:28:27-06:00",
+   "author": "Richard Mahn",
+   "subject": "updates USFM tag numbering",
+   "ts": 35,
+   "pm": 26,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 4,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 11,
+   "2": 9,
+   "3": 7,
+   "4": 8
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   }
+  },
+  "commits_scanned": 26
+ },
+ "1TH": {
+  "file": "53-1TH.usfm",
+  "current_ts": 32,
+  "current_pm": 20,
+  "max_ts": 32,
+  "baseline": {
+   "sha": "6312745a0782a9aaab4d67ae314d84fe4bfaa4ab",
+   "date": "2026-05-06T16:28:27-06:00",
+   "author": "Richard Mahn",
+   "subject": "updates USFM tag numbering",
+   "ts": 32,
+   "pm": 20,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 5,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 5,
+   "2": 8,
+   "3": 5,
+   "4": 6,
+   "5": 8
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "5": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   }
+  },
+  "commits_scanned": 39
+ },
+ "2TH": {
+  "file": "54-2TH.usfm",
+  "current_ts": 18,
+  "current_pm": 19,
+  "max_ts": 18,
+  "baseline": {
+   "sha": "6312745a0782a9aaab4d67ae314d84fe4bfaa4ab",
+   "date": "2026-05-06T16:28:27-06:00",
+   "author": "Richard Mahn",
+   "subject": "updates USFM tag numbering",
+   "ts": 18,
+   "pm": 19,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 3,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 5,
+   "2": 7,
+   "3": 6
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   }
+  },
+  "commits_scanned": 24
+ },
+ "1TI": {
+  "file": "55-1TI.usfm",
+  "current_ts": 43,
+  "current_pm": 36,
+  "max_ts": 45,
+  "baseline": {
+   "sha": "6312745a0782a9aaab4d67ae314d84fe4bfaa4ab",
+   "date": "2026-05-06T16:28:27-06:00",
+   "author": "Richard Mahn",
+   "subject": "updates USFM tag numbering",
+   "ts": 43,
+   "pm": 36,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 6,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 7,
+   "2": 4,
+   "3": 7,
+   "4": 6,
+   "5": 11,
+   "6": 8
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 4
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "5": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "6": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   }
+  },
+  "commits_scanned": 50
+ },
+ "2TI": {
+  "file": "56-2TI.usfm",
+  "current_ts": 30,
+  "current_pm": 25,
+  "max_ts": 30,
+  "baseline": {
+   "sha": "6312745a0782a9aaab4d67ae314d84fe4bfaa4ab",
+   "date": "2026-05-06T16:28:27-06:00",
+   "author": "Richard Mahn",
+   "subject": "updates USFM tag numbering",
+   "ts": 30,
+   "pm": 25,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 4,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 6,
+   "2": 10,
+   "3": 6,
+   "4": 8
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   }
+  },
+  "commits_scanned": 46
+ },
+ "TIT": {
+  "file": "57-TIT.usfm",
+  "current_ts": 23,
+  "current_pm": 8,
+  "max_ts": 24,
+  "baseline": {
+   "sha": "6312745a0782a9aaab4d67ae314d84fe4bfaa4ab",
+   "date": "2026-05-06T16:28:27-06:00",
+   "author": "Richard Mahn",
+   "subject": "updates USFM tag numbering",
+   "ts": 23,
+   "pm": 8,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 3,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 7,
+   "2": 7,
+   "3": 9
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   }
+  },
+  "commits_scanned": 67
+ },
+ "PHM": {
+  "file": "58-PHM.usfm",
+  "current_ts": 8,
+  "current_pm": 8,
+  "max_ts": 8,
+  "baseline": {
+   "sha": "6312745a0782a9aaab4d67ae314d84fe4bfaa4ab",
+   "date": "2026-05-06T16:28:27-06:00",
+   "author": "Richard Mahn",
+   "subject": "updates USFM tag numbering",
+   "ts": 8,
+   "pm": 8,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 1,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 8
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   }
+  },
+  "commits_scanned": 23
+ },
+ "HEB": {
+  "file": "59-HEB.usfm",
+  "current_ts": 122,
+  "current_pm": 107,
+  "max_ts": 122,
+  "baseline": {
+   "sha": "6312745a0782a9aaab4d67ae314d84fe4bfaa4ab",
+   "date": "2026-05-06T16:28:27-06:00",
+   "author": "Richard Mahn",
+   "subject": "updates USFM tag numbering",
+   "ts": 122,
+   "pm": 107,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 13,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 6,
+   "2": 8,
+   "3": 7,
+   "4": 6,
+   "5": 6,
+   "6": 8,
+   "7": 11,
+   "8": 7,
+   "9": 12,
+   "10": 14,
+   "11": 16,
+   "12": 10,
+   "13": 11
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "5": {
+    "sha": "current",
+    "date": null,
+    "ts": 6
+   },
+   "6": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "7": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "8": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "9": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "10": {
+    "sha": "current",
+    "date": null,
+    "ts": 14
+   },
+   "11": {
+    "sha": "current",
+    "date": null,
+    "ts": 16
+   },
+   "12": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "13": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   }
+  },
+  "commits_scanned": 44
+ },
+ "JAS": {
+  "file": "60-JAS.usfm",
+  "current_ts": 42,
+  "current_pm": 30,
+  "max_ts": 42,
+  "baseline": {
+   "sha": "6312745a0782a9aaab4d67ae314d84fe4bfaa4ab",
+   "date": "2026-05-06T16:28:27-06:00",
+   "author": "Richard Mahn",
+   "subject": "updates USFM tag numbering",
+   "ts": 42,
+   "pm": 30,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 5,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 10,
+   "2": 9,
+   "3": 8,
+   "4": 7,
+   "5": 8
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "5": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   }
+  },
+  "commits_scanned": 31
+ },
+ "1PE": {
+  "file": "61-1PE.usfm",
+  "current_ts": 43,
+  "current_pm": 29,
+  "max_ts": 43,
+  "baseline": {
+   "sha": "baa5051c9f5f163572492c64e435a9bb13839071",
+   "date": "2026-06-06T09:09:45-04:00",
+   "author": "Richard Mahn",
+   "subject": "USFM cleanup",
+   "ts": 43,
+   "pm": 29,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 5,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 11,
+   "2": 10,
+   "3": 10,
+   "4": 7,
+   "5": 5
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "5": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   }
+  },
+  "commits_scanned": 42
+ },
+ "2PE": {
+  "file": "62-2PE.usfm",
+  "current_ts": 24,
+  "current_pm": 13,
+  "max_ts": 24,
+  "baseline": {
+   "sha": "6312745a0782a9aaab4d67ae314d84fe4bfaa4ab",
+   "date": "2026-05-06T16:28:27-06:00",
+   "author": "Richard Mahn",
+   "subject": "updates USFM tag numbering",
+   "ts": 24,
+   "pm": 13,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 3,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 8,
+   "2": 8,
+   "3": 8
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   }
+  },
+  "commits_scanned": 27
+ },
+ "1JN": {
+  "file": "63-1JN.usfm",
+  "current_ts": 41,
+  "current_pm": 22,
+  "max_ts": 41,
+  "baseline": {
+   "sha": "6312745a0782a9aaab4d67ae314d84fe4bfaa4ab",
+   "date": "2026-05-06T16:28:27-06:00",
+   "author": "Richard Mahn",
+   "subject": "updates USFM tag numbering",
+   "ts": 41,
+   "pm": 22,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 5,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 4,
+   "2": 11,
+   "3": 9,
+   "4": 8,
+   "5": 9
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 4
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "5": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   }
+  },
+  "commits_scanned": 37
+ },
+ "2JN": {
+  "file": "64-2JN.usfm",
+  "current_ts": 5,
+  "current_pm": 5,
+  "max_ts": 5,
+  "baseline": {
+   "sha": "6312745a0782a9aaab4d67ae314d84fe4bfaa4ab",
+   "date": "2026-05-06T16:28:27-06:00",
+   "author": "Richard Mahn",
+   "subject": "updates USFM tag numbering",
+   "ts": 5,
+   "pm": 5,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 1,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 5
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   }
+  },
+  "commits_scanned": 25
+ },
+ "3JN": {
+  "file": "65-3JN.usfm",
+  "current_ts": 5,
+  "current_pm": 5,
+  "max_ts": 5,
+  "baseline": {
+   "sha": "6312745a0782a9aaab4d67ae314d84fe4bfaa4ab",
+   "date": "2026-05-06T16:28:27-06:00",
+   "author": "Richard Mahn",
+   "subject": "updates USFM tag numbering",
+   "ts": 5,
+   "pm": 5,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 1,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 5
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   }
+  },
+  "commits_scanned": 41
+ },
+ "JUD": {
+  "file": "66-JUD.usfm",
+  "current_ts": 11,
+  "current_pm": 10,
+  "max_ts": 11,
+  "baseline": {
+   "sha": "6312745a0782a9aaab4d67ae314d84fe4bfaa4ab",
+   "date": "2026-05-06T16:28:27-06:00",
+   "author": "Richard Mahn",
+   "subject": "updates USFM tag numbering",
+   "ts": 11,
+   "pm": 10,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 1,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 11
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   }
+  },
+  "commits_scanned": 21
+ },
+ "REV": {
+  "file": "67-REV.usfm",
+  "current_ts": 189,
+  "current_pm": 71,
+  "max_ts": 191,
+  "baseline": {
+   "sha": "9454fe94b0251fe048cd4062ecc50a772b375639",
+   "date": "2026-09-23T16:35:34-04:00",
+   "author": "Richard Mahn",
+   "subject": "Restores \\ts\\* tags",
+   "ts": 189,
+   "pm": 71,
+   "dup": false
+  },
+  "first_drop_after_baseline": null,
+  "chapters": 22,
+  "damaged_chapters": [],
+  "current_ts_per_chapter": {
+   "1": 8,
+   "2": 13,
+   "3": 10,
+   "4": 5,
+   "5": 7,
+   "6": 7,
+   "7": 7,
+   "8": 5,
+   "9": 9,
+   "10": 5,
+   "11": 10,
+   "12": 8,
+   "13": 9,
+   "14": 10,
+   "15": 5,
+   "16": 10,
+   "17": 10,
+   "18": 10,
+   "19": 11,
+   "20": 7,
+   "21": 12,
+   "22": 11
+  },
+  "chapter_baselines": {
+   "1": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "2": {
+    "sha": "current",
+    "date": null,
+    "ts": 13
+   },
+   "3": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "4": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "5": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "6": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "7": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "8": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "9": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "10": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "11": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "12": {
+    "sha": "current",
+    "date": null,
+    "ts": 8
+   },
+   "13": {
+    "sha": "current",
+    "date": null,
+    "ts": 9
+   },
+   "14": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "15": {
+    "sha": "current",
+    "date": null,
+    "ts": 5
+   },
+   "16": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "17": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "18": {
+    "sha": "current",
+    "date": null,
+    "ts": 10
+   },
+   "19": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   },
+   "20": {
+    "sha": "current",
+    "date": null,
+    "ts": 7
+   },
+   "21": {
+    "sha": "current",
+    "date": null,
+    "ts": 12
+   },
+   "22": {
+    "sha": "current",
+    "date": null,
+    "ts": 11
+   }
+  },
+  "commits_scanned": 56
+ }
+}

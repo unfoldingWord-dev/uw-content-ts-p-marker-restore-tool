@@ -1,0 +1,63 @@
+{
+ "resource": "ult",
+ "book": "PHM",
+ "file": "58-PHM.usfm",
+ "generated": "2026-09-23",
+ "baseline_commits": {
+  "current": {
+   "date": "2026-09-23T17:30:53-04:00",
+   "author": "Richard Mahn",
+   "subject": "current working file (HEAD b32e8ffa9)",
+   "chapters": [
+    1
+   ]
+  }
+ },
+ "chapter_baselines": {
+  "1": "current"
+ },
+ "chapters_restored_from_history": [],
+ "chapters_checked_ok": [],
+ "ts_override": null,
+ "counts": {
+  "ts": 8,
+  "p": 6,
+  "m": 0
+ },
+ "markers": {
+  "1:1": [
+   "ts",
+   "p"
+  ],
+  "1:4": [
+   "ts",
+   "p"
+  ],
+  "1:8": [
+   "ts",
+   "p"
+  ],
+  "1:10": [
+   "ts"
+  ],
+  "1:14": [
+   "ts"
+  ],
+  "1:17": [
+   "ts"
+  ],
+  "1:21": [
+   "ts",
+   "p"
+  ],
+  "1:23": [
+   "ts",
+   "p"
+  ],
+  "1:25": [
+   "p"
+  ]
+ },
+ "anchors": {},
+ "baseline_poetry_verses": []
+}

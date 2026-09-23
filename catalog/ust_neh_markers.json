@@ -1,0 +1,1125 @@
+{
+ "resource": "ust",
+ "book": "NEH",
+ "file": "16-NEH.usfm",
+ "generated": "2026-09-23",
+ "baseline_commits": {
+  "current": {
+   "date": "2026-09-23T17:30:43-04:00",
+   "author": "Richard Mahn",
+   "subject": "current working file (HEAD f8fa4f0a5)",
+   "chapters": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+   ]
+  }
+ },
+ "chapter_baselines": {
+  "1": "current",
+  "2": "current",
+  "3": "current",
+  "4": "current",
+  "5": "current",
+  "6": "current",
+  "7": "current",
+  "8": "current",
+  "9": "current",
+  "10": "current",
+  "11": "current",
+  "12": "current",
+  "13": "current"
+ },
+ "chapters_restored_from_history": [],
+ "chapters_checked_ok": [],
+ "ts_override": null,
+ "counts": {
+  "ts": 145,
+  "p": 226,
+  "m": 1
+ },
+ "markers": {
+  "1:1": [
+   "ts",
+   "p"
+  ],
+  "1:1c": [
+   "p"
+  ],
+  "1:3": [
+   "p"
+  ],
+  "1:4": [
+   "ts",
+   "p"
+  ],
+  "1:5": [
+   "p"
+  ],
+  "1:6": [
+   "ts"
+  ],
+  "1:8": [
+   "ts",
+   "p"
+  ],
+  "1:10": [
+   "ts",
+   "p"
+  ],
+  "2:1": [
+   "ts",
+   "p"
+  ],
+  "2:2": [
+   "p"
+  ],
+  "2:3": [
+   "ts",
+   "p"
+  ],
+  "2:4": [
+   "p"
+  ],
+  "2:5": [
+   "ts",
+   "p"
+  ],
+  "2:6": [
+   "p"
+  ],
+  "2:7": [
+   "ts",
+   "p"
+  ],
+  "2:8d": [
+   "p"
+  ],
+  "2:9": [
+   "p"
+  ],
+  "2:10": [
+   "ts",
+   "p"
+  ],
+  "2:12": [
+   "ts",
+   "p"
+  ],
+  "2:13": [
+   "ts",
+   "p"
+  ],
+  "2:15": [
+   "ts"
+  ],
+  "2:16": [
+   "ts",
+   "p"
+  ],
+  "2:17": [
+   "p"
+  ],
+  "2:18c": [
+   "p"
+  ],
+  "2:19": [
+   "ts",
+   "p"
+  ],
+  "2:20": [
+   "p"
+  ],
+  "3:1": [
+   "ts",
+   "p"
+  ],
+  "3:2": [
+   "p"
+  ],
+  "3:2b": [
+   "p"
+  ],
+  "3:3": [
+   "p"
+  ],
+  "3:4": [
+   "ts",
+   "p"
+  ],
+  "3:4b": [
+   "p"
+  ],
+  "3:4c": [
+   "p"
+  ],
+  "3:5": [
+   "p"
+  ],
+  "3:6": [
+   "p"
+  ],
+  "3:7": [
+   "ts",
+   "p"
+  ],
+  "3:8": [
+   "p"
+  ],
+  "3:8c": [
+   "p"
+  ],
+  "3:9": [
+   "p"
+  ],
+  "3:10": [
+   "ts",
+   "p"
+  ],
+  "3:10b": [
+   "p"
+  ],
+  "3:11": [
+   "p"
+  ],
+  "3:12": [
+   "p"
+  ],
+  "3:13": [
+   "ts",
+   "p"
+  ],
+  "3:14": [
+   "p"
+  ],
+  "3:15": [
+   "p"
+  ],
+  "3:16": [
+   "ts",
+   "p"
+  ],
+  "3:17": [
+   "p"
+  ],
+  "3:18": [
+   "p"
+  ],
+  "3:19": [
+   "ts",
+   "p"
+  ],
+  "3:20": [
+   "p"
+  ],
+  "3:21": [
+   "p"
+  ],
+  "3:22": [
+   "ts",
+   "p"
+  ],
+  "3:23": [
+   "p"
+  ],
+  "3:23b": [
+   "p"
+  ],
+  "3:24": [
+   "p"
+  ],
+  "3:25": [
+   "ts"
+  ],
+  "3:26": [
+   "ts",
+   "p"
+  ],
+  "3:27": [
+   "ts",
+   "p"
+  ],
+  "3:28": [
+   "p"
+  ],
+  "3:29": [
+   "ts",
+   "p"
+  ],
+  "3:29b": [
+   "p"
+  ],
+  "3:30": [
+   "ts",
+   "p"
+  ],
+  "3:30b": [
+   "p"
+  ],
+  "3:31": [
+   "p"
+  ],
+  "3:32": [
+   "p"
+  ],
+  "4:1": [
+   "ts",
+   "p"
+  ],
+  "4:2": [
+   "p"
+  ],
+  "4:3": [
+   "p"
+  ],
+  "4:4": [
+   "ts",
+   "p"
+  ],
+  "4:6": [
+   "p"
+  ],
+  "4:7": [
+   "ts",
+   "p"
+  ],
+  "4:10": [
+   "ts",
+   "p"
+  ],
+  "4:11": [
+   "p"
+  ],
+  "4:12": [
+   "p"
+  ],
+  "4:13": [
+   "ts",
+   "p"
+  ],
+  "4:15": [
+   "ts",
+   "p"
+  ],
+  "4:17": [
+   "ts"
+  ],
+  "4:19": [
+   "ts",
+   "p"
+  ],
+  "4:21": [
+   "ts",
+   "p"
+  ],
+  "5:1": [
+   "ts",
+   "p"
+  ],
+  "5:2": [
+   "p"
+  ],
+  "5:3": [
+   "p"
+  ],
+  "5:4": [
+   "p"
+  ],
+  "5:6": [
+   "ts",
+   "p"
+  ],
+  "5:8": [
+   "p"
+  ],
+  "5:9": [
+   "ts",
+   "p"
+  ],
+  "5:12": [
+   "ts",
+   "p"
+  ],
+  "5:12e": [
+   "p"
+  ],
+  "5:13d": [
+   "p"
+  ],
+  "5:14": [
+   "ts",
+   "p"
+  ],
+  "5:17": [
+   "ts",
+   "p"
+  ],
+  "5:18": [
+   "ts"
+  ],
+  "5:19": [
+   "p"
+  ],
+  "6:1": [
+   "ts",
+   "p"
+  ],
+  "6:3": [
+   "p"
+  ],
+  "6:4": [
+   "p"
+  ],
+  "6:5": [
+   "ts",
+   "p"
+  ],
+  "6:8": [
+   "ts",
+   "p"
+  ],
+  "6:9": [
+   "p"
+  ],
+  "6:10": [
+   "ts",
+   "p"
+  ],
+  "6:11": [
+   "p"
+  ],
+  "6:12": [
+   "ts",
+   "p"
+  ],
+  "6:14": [
+   "p"
+  ],
+  "6:15": [
+   "p"
+  ],
+  "6:16": [
+   "ts",
+   "p"
+  ],
+  "7:1": [
+   "ts",
+   "p"
+  ],
+  "7:3": [
+   "p"
+  ],
+  "7:4": [
+   "ts",
+   "p"
+  ],
+  "7:6": [
+   "ts",
+   "p"
+  ],
+  "7:7": [
+   "p"
+  ],
+  "7:7b": [
+   "p"
+  ],
+  "7:8": [
+   "ts",
+   "p"
+  ],
+  "7:9": [
+   "p"
+  ],
+  "7:10": [
+   "p"
+  ],
+  "7:11": [
+   "p"
+  ],
+  "7:12": [
+   "p"
+  ],
+  "7:13": [
+   "ts",
+   "p"
+  ],
+  "7:14": [
+   "p"
+  ],
+  "7:15": [
+   "p"
+  ],
+  "7:16": [
+   "p"
+  ],
+  "7:17": [
+   "p"
+  ],
+  "7:18": [
+   "ts",
+   "p"
+  ],
+  "7:19": [
+   "p"
+  ],
+  "7:20": [
+   "p"
+  ],
+  "7:21": [
+   "p"
+  ],
+  "7:22": [
+   "p"
+  ],
+  "7:23": [
+   "ts",
+   "p"
+  ],
+  "7:24": [
+   "p"
+  ],
+  "7:25": [
+   "p"
+  ],
+  "7:26": [
+   "p"
+  ],
+  "7:26b": [
+   "p"
+  ],
+  "7:27": [
+   "p"
+  ],
+  "7:28": [
+   "ts",
+   "p"
+  ],
+  "7:29": [
+   "p"
+  ],
+  "7:30": [
+   "p"
+  ],
+  "7:31": [
+   "p"
+  ],
+  "7:32": [
+   "p"
+  ],
+  "7:33": [
+   "ts",
+   "p"
+  ],
+  "7:34": [
+   "p"
+  ],
+  "7:35": [
+   "p"
+  ],
+  "7:36": [
+   "p"
+  ],
+  "7:37": [
+   "p"
+  ],
+  "7:38": [
+   "p"
+  ],
+  "7:39": [
+   "ts",
+   "p"
+  ],
+  "7:39b": [
+   "p"
+  ],
+  "7:40": [
+   "p"
+  ],
+  "7:41": [
+   "p"
+  ],
+  "7:42": [
+   "p"
+  ],
+  "7:43": [
+   "ts",
+   "p"
+  ],
+  "7:43b": [
+   "p"
+  ],
+  "7:44": [
+   "p"
+  ],
+  "7:45": [
+   "p"
+  ],
+  "7:46": [
+   "ts",
+   "p"
+  ],
+  "7:51": [
+   "ts"
+  ],
+  "7:57": [
+   "ts",
+   "p"
+  ],
+  "7:57b": [
+   "p"
+  ],
+  "7:61": [
+   "ts",
+   "p"
+  ],
+  "7:63": [
+   "p"
+  ],
+  "7:66": [
+   "ts"
+  ],
+  "7:67": [
+   "p"
+  ],
+  "7:68": [
+   "p"
+  ],
+  "7:70": [
+   "ts",
+   "p"
+  ],
+  "7:70b": [
+   "p"
+  ],
+  "7:71": [
+   "p"
+  ],
+  "7:72": [
+   "p"
+  ],
+  "8:1": [
+   "ts",
+   "p"
+  ],
+  "8:4": [
+   "ts"
+  ],
+  "8:6": [
+   "ts",
+   "p"
+  ],
+  "8:9": [
+   "ts",
+   "p"
+  ],
+  "8:10": [
+   "p"
+  ],
+  "8:11": [
+   "p"
+  ],
+  "8:12": [
+   "p"
+  ],
+  "8:13": [
+   "ts",
+   "p"
+  ],
+  "8:16": [
+   "ts",
+   "p"
+  ],
+  "9:1": [
+   "ts",
+   "p"
+  ],
+  "9:4": [
+   "ts",
+   "p"
+  ],
+  "9:5c": [
+   "p"
+  ],
+  "9:7": [
+   "ts",
+   "p"
+  ],
+  "9:9": [
+   "ts",
+   "p"
+  ],
+  "9:13": [
+   "ts"
+  ],
+  "9:16": [
+   "ts",
+   "p"
+  ],
+  "9:18": [
+   "ts"
+  ],
+  "9:20": [
+   "ts"
+  ],
+  "9:22": [
+   "ts"
+  ],
+  "9:24": [
+   "ts",
+   "p"
+  ],
+  "9:26": [
+   "ts",
+   "p"
+  ],
+  "9:28": [
+   "ts",
+   "p"
+  ],
+  "9:30": [
+   "ts",
+   "p"
+  ],
+  "9:32": [
+   "ts",
+   "p"
+  ],
+  "9:34": [
+   "ts"
+  ],
+  "9:36": [
+   "ts",
+   "p"
+  ],
+  "10:1": [
+   "ts",
+   "p"
+  ],
+  "10:1b": [
+   "p"
+  ],
+  "10:2": [
+   "p"
+  ],
+  "10:2b": [
+   "p"
+  ],
+  "10:5": [
+   "ts"
+  ],
+  "10:9": [
+   "ts",
+   "p"
+  ],
+  "10:9b": [
+   "p"
+  ],
+  "10:10": [
+   "p"
+  ],
+  "10:11": [
+   "ts"
+  ],
+  "10:14": [
+   "ts",
+   "p"
+  ],
+  "10:14b": [
+   "p"
+  ],
+  "10:18": [
+   "ts"
+  ],
+  "10:23": [
+   "ts"
+  ],
+  "10:28": [
+   "ts",
+   "p"
+  ],
+  "10:30": [
+   "ts"
+  ],
+  "10:32": [
+   "ts"
+  ],
+  "10:34": [
+   "ts",
+   "p"
+  ],
+  "10:36": [
+   "ts"
+  ],
+  "10:38": [
+   "ts"
+  ],
+  "10:39e": [
+   "p"
+  ],
+  "11:1": [
+   "ts",
+   "p"
+  ],
+  "11:3": [
+   "ts",
+   "p"
+  ],
+  "11:4b": [
+   "p"
+  ],
+  "11:4c": [
+   "p"
+  ],
+  "11:5": [
+   "p"
+  ],
+  "11:6": [
+   "ts"
+  ],
+  "11:7": [
+   "p"
+  ],
+  "11:7b": [
+   "p"
+  ],
+  "11:8": [
+   "p"
+  ],
+  "11:10": [
+   "ts",
+   "p"
+  ],
+  "11:13": [
+   "ts"
+  ],
+  "11:15": [
+   "ts",
+   "p"
+  ],
+  "11:17": [
+   "ts"
+  ],
+  "11:19": [
+   "ts",
+   "p"
+  ],
+  "11:20": [
+   "p"
+  ],
+  "11:22": [
+   "ts",
+   "p"
+  ],
+  "11:25": [
+   "ts",
+   "p"
+  ],
+  "11:28": [
+   "ts"
+  ],
+  "11:30b": [
+   "p"
+  ],
+  "11:31": [
+   "ts"
+  ],
+  "11:34": [
+   "ts"
+  ],
+  "12:1": [
+   "ts",
+   "p"
+  ],
+  "12:4": [
+   "ts"
+  ],
+  "12:7b": [
+   "m"
+  ],
+  "12:8": [
+   "ts",
+   "p"
+  ],
+  "12:10": [
+   "ts"
+  ],
+  "12:12": [
+   "ts",
+   "p"
+  ],
+  "12:15": [
+   "ts"
+  ],
+  "12:20": [
+   "ts"
+  ],
+  "12:22": [
+   "p"
+  ],
+  "12:23": [
+   "ts",
+   "p"
+  ],
+  "12:25": [
+   "ts"
+  ],
+  "12:27": [
+   "ts",
+   "p"
+  ],
+  "12:30": [
+   "ts"
+  ],
+  "12:32": [
+   "ts"
+  ],
+  "12:35": [
+   "ts"
+  ],
+  "12:38": [
+   "ts"
+  ],
+  "12:40": [
+   "ts"
+  ],
+  "12:44": [
+   "ts",
+   "p"
+  ],
+  "12:46": [
+   "ts"
+  ],
+  "13:1": [
+   "ts",
+   "p"
+  ],
+  "13:4": [
+   "ts",
+   "p"
+  ],
+  "13:7": [
+   "ts",
+   "p"
+  ],
+  "13:10": [
+   "ts",
+   "p"
+  ],
+  "13:13": [
+   "ts"
+  ],
+  "13:14": [
+   "p"
+  ],
+  "13:15": [
+   "ts",
+   "p"
+  ],
+  "13:17": [
+   "ts"
+  ],
+  "13:19": [
+   "ts",
+   "p"
+  ],
+  "13:21": [
+   "ts"
+  ],
+  "13:22": [
+   "p"
+  ],
+  "13:22c": [
+   "p"
+  ],
+  "13:23": [
+   "ts",
+   "p"
+  ],
+  "13:25": [
+   "ts"
+  ],
+  "13:28": [
+   "ts",
+   "p"
+  ],
+  "13:29": [
+   "p"
+  ],
+  "13:30": [
+   "ts",
+   "p"
+  ]
+ },
+ "anchors": {
+  "1:1c": {
+   "after_punct": ".}",
+   "before": "Hacaliah. {I am writing this account.}",
+   "after": "My story begins in the month"
+  },
+  "2:8d": {
+   "after_punct": ".”",
+   "before": "house that I will live in.”",
+   "after": "God was with me and helping"
+  },
+  "2:18c": {
+   "after_punct": ".",
+   "before": "had given me permission to come.",
+   "after": "{When they heard this,} they said,"
+  },
+  "3:2b": {
+   "after_punct": "}.",
+   "before": "Jericho rebuilt {part of the wall}.",
+   "after": "Next to them, Zaccur, the son"
+  },
+  "3:4b": {
+   "after_punct": "}.",
+   "before": "Hakkoz, repaired {part of the wall}.",
+   "after": "Next to him, Meshullam, the son"
+  },
+  "3:4c": {
+   "after_punct": "}.",
+   "before": "Meshezabel, repaired {part of the wall}.",
+   "after": "Next to him, Zadok the son"
+  },
+  "3:8c": {
+   "after_punct": "}.",
+   "before": "jewelry and other objects from gold}.",
+   "after": "Next to him, Hananiah repaired {part"
+  },
+  "3:10b": {
+   "after_punct": ".",
+   "before": "of the wall} near his house.",
+   "after": "Next to him, Hattush the son"
+  },
+  "3:23b": {
+   "after_punct": ".",
+   "before": "repaired {a section} opposite their house.",
+   "after": "Azariah, the son of Maaseiah and"
+  },
+  "3:29b": {
+   "after_punct": ".",
+   "before": "section} in front of his house.",
+   "after": "Then Shemaiah the son of Shecaniah,"
+  },
+  "3:30b": {
+   "after_punct": ".",
+   "before": "son of Zalaph, repaired another section.",
+   "after": "Next to them, Meshullam the son"
+  },
+  "5:12e": {
+   "after_punct": "}.”",
+   "before": "we will stop {charging} them {interest}.”",
+   "after": "Then I called the priests, and"
+  },
+  "5:13d": {
+   "after_punct": "!”",
+   "before": "Yes, may that person lose everything!”",
+   "after": "Then everyone who was there said,"
+  },
+  "7:7b": {
+   "after_punct": ".",
+   "before": "Bilshan, Mispereth, Bigvai, Nehum, and Baanah.",
+   "after": "{This is a list of} the"
+  },
+  "7:26b": {
+   "after_punct": "}:",
+   "before": "ancestors had lived in these towns}:",
+   "after": "188 men from Bethlehem and Netophah;"
+  },
+  "7:39b": {
+   "after_punct": ":",
+   "before": "These priests also returned:",
+   "after": "973 men from {the clan of}"
+  },
+  "7:43b": {
+   "after_punct": ":",
+   "before": "These Levites also returned:",
+   "after": "74 men from the clan of"
+  },
+  "7:57b": {
+   "after_punct": "}.",
+   "before": "King Solomon {first conscripted also returned}.",
+   "after": "These were from the clan of"
+  },
+  "7:70b": {
+   "after_punct": "}.",
+   "before": "the work {of rebuilding the temple}.",
+   "after": "The governor gave into the treasury"
+  },
+  "9:5c": {
+   "after_punct": ".",
+   "before": "Hashabneiah, Sherebiah, Hodiah, Shebaniah, and Pethahiah.",
+   "after": "They said, “Stand up and praise"
+  },
+  "10:1b": {
+   "after_punct": ":",
+   "before": "the people who signed the agreement:",
+   "after": "Nehemiah the governor, the son of"
+  },
+  "10:2b": {
+   "after_punct": ":}",
+   "before": "priests who signed the agreement included:}",
+   "after": "Seraiah, Azariah, Jeremiah,"
+  },
+  "10:9b": {
+   "after_punct": ":",
+   "before": "Levites {who signed the agreement} were:",
+   "after": "Jeshua the son of Azaniah, Binnui"
+  },
+  "10:14b": {
+   "after_punct": ":",
+   "before": "leaders {who signed the agreement} were:",
+   "after": "Parosh, Pahath-Moab, Elam, Zattu, and Bani,"
+  },
+  "10:39e": {
+   "after_punct": ".",
+   "before": "who are serving at that time.",
+   "after": "We promise that we will keep"
+  },
+  "11:4b": {
+   "after_punct": ".",
+   "before": "Benjamin stayed and lived in Jerusalem.",
+   "after": "Here are {the names of} the"
+  },
+  "11:4c": {
+   "after_punct": ".",
+   "before": "the leaders who lived in Jerusalem.",
+   "after": "From the descendants of Judah, one"
+  },
+  "11:7b": {
+   "after_punct": "}.",
+   "before": "{who decided to live in Jerusalem}.",
+   "after": "One of them was Sallu the"
+  },
+  "11:30b": {
+   "after_punct": ".",
+   "before": "of} Azekah and the nearby villages.",
+   "after": "{All of} those people settled {in"
+  },
+  "12:7b": {
+   "after_punct": ".",
+   "before": "Sallu, Amok, Hilkiah, and Jedaiah.",
+   "after": "All those men were leaders of"
+  },
+  "13:22c": {
+   "after_punct": "}.",
+   "before": "the city on that holy day}.",
+   "after": "“My God, please bless me for"
+  }
+ },
+ "baseline_poetry_verses": [
+  "10:11",
+  "12:14",
+  "12:21"
+ ]
+}

@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.swp
+# generated reports and logs (re-create with check_markers.py / the dry runs)
+report/
+survey/*.log

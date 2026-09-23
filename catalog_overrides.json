@@ -1,0 +1,7 @@
+{
+ "_comment": "Per-book overrides for build_catalog.py. ts_commit: take every \\ts\\* from this commit (all chapters, or only 'ts_chapters'); \\p and \\m still come from the normal per-chapter sources.",
+ "ult": {
+  "ISA": {"ts_commit": "03b56ef6d", "why": "2022-12-05 chunking preferred over the 2026-03-06 restore (#5388)"}
+ },
+ "ust": {}
+}

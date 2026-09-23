@@ -1,0 +1,161 @@
+{
+ "resource": "ult",
+ "book": "JON",
+ "file": "32-JON.usfm",
+ "generated": "2026-09-23",
+ "baseline_commits": {
+  "current": {
+   "date": "2026-09-23T17:30:53-04:00",
+   "author": "Richard Mahn",
+   "subject": "current working file (HEAD b32e8ffa9)",
+   "chapters": [
+    1,
+    2,
+    3,
+    4
+   ]
+  }
+ },
+ "chapter_baselines": {
+  "1": "current",
+  "2": "current",
+  "3": "current",
+  "4": "current"
+ },
+ "chapters_restored_from_history": [],
+ "chapters_checked_ok": [],
+ "ts_override": null,
+ "counts": {
+  "ts": 22,
+  "p": 21,
+  "m": 1
+ },
+ "markers": {
+  "1:1": [
+   "ts",
+   "p"
+  ],
+  "1:4": [
+   "ts",
+   "p"
+  ],
+  "1:6": [
+   "ts",
+   "p"
+  ],
+  "1:7": [
+   "p"
+  ],
+  "1:8": [
+   "ts"
+  ],
+  "1:9": [
+   "p"
+  ],
+  "1:10": [
+   "p"
+  ],
+  "1:11": [
+   "ts"
+  ],
+  "1:12": [
+   "p"
+  ],
+  "1:13": [
+   "p"
+  ],
+  "1:14": [
+   "ts"
+  ],
+  "1:17": [
+   "ts",
+   "p"
+  ],
+  "2:1": [
+   "ts",
+   "p"
+  ],
+  "2:3": [
+   "ts"
+  ],
+  "2:5": [
+   "ts"
+  ],
+  "2:7": [
+   "ts"
+  ],
+  "2:9": [
+   "ts"
+  ],
+  "2:10": [
+   "m"
+  ],
+  "3:1": [
+   "ts",
+   "p"
+  ],
+  "3:3b": [
+   "p"
+  ],
+  "3:4": [
+   "ts"
+  ],
+  "3:5": [
+   "p"
+  ],
+  "3:6": [
+   "ts"
+  ],
+  "3:7": [
+   "p"
+  ],
+  "3:8": [
+   "ts"
+  ],
+  "3:10": [
+   "ts",
+   "p"
+  ],
+  "4:1": [
+   "ts",
+   "p"
+  ],
+  "4:4": [
+   "ts",
+   "p"
+  ],
+  "4:5": [
+   "p"
+  ],
+  "4:6": [
+   "ts",
+   "p"
+  ],
+  "4:8": [
+   "ts"
+  ],
+  "4:9": [
+   "p"
+  ],
+  "4:10": [
+   "ts",
+   "p"
+  ]
+ },
+ "anchors": {
+  "3:3b": {
+   "after_punct": ".",
+   "before": "according to the word of Yahweh.",
+   "after": "Now Nineveh was a city great"
+  }
+ },
+ "baseline_poetry_verses": [
+  "2:3",
+  "2:4",
+  "2:5",
+  "2:6",
+  "2:7",
+  "2:8",
+  "2:9"
+ ]
+}
