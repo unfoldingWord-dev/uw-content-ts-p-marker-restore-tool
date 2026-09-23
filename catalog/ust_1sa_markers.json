@@ -5,9 +5,9 @@
  "generated": "2026-09-23",
  "baseline_commits": {
   "current": {
-   "date": "2026-09-23T17:30:43-04:00",
-   "author": "Richard Mahn",
-   "subject": "current working file (HEAD f8fa4f0a5)",
+   "date": "2026-09-23T22:02:05Z",
+   "author": "richmahn",
+   "subject": "current working file (HEAD 1a42e0b52)",
    "chapters": [
     1,
     2,
@@ -81,7 +81,7 @@
  "ts_override": null,
  "counts": {
   "ts": 396,
-  "p": 399,
+  "p": 403,
   "m": 6
  },
  "markers": {
@@ -238,6 +238,9 @@
    "p"
   ],
   "3:8": [
+   "p"
+  ],
+  "3:8f": [
    "p"
   ],
   "3:9": [
@@ -1513,6 +1516,9 @@
   "23:10": [
    "ts"
   ],
+  "23:11d": [
+   "p"
+  ],
   "23:12": [
    "ts"
   ],
@@ -1834,6 +1840,9 @@
    "ts",
    "p"
   ],
+  "28:13d": [
+   "p"
+  ],
   "28:14c": [
    "p"
   ],
@@ -1875,6 +1884,9 @@
   ],
   "29:3": [
    "ts"
+  ],
+  "29:3c": [
+   "p"
   ],
   "29:4": [
    "ts"
@@ -2022,6 +2034,11 @@
    "before": "dark place where dead people go.",
    "after": "People do not defeat their enemies"
   },
+  "3:8f": {
+   "after_punct": ".”",
+   "before": "ready to do whatever you ask.”",
+   "after": "Then Eli realized that it was"
+  },
   "4:1b": {
    "after_punct": ".",
    "before": "the messages that God gave him.",
@@ -2122,6 +2139,11 @@
    "before": "to fight against these Philistine soldiers?”",
    "after": "Yahweh told David, “Yes, go and"
   },
+  "23:11d": {
+   "after_punct": "!”",
+   "before": "of us Israelites, please tell me!”",
+   "after": "{By means of the stones in"
+  },
   "23:12c": {
    "after_punct": "?”",
    "before": "army capture me and my men?”",
@@ -2177,6 +2199,11 @@
    "before": "you want me to make appear?”",
    "after": "Saul replied, “Make Samuel appear.”"
   },
+  "28:13d": {
+   "after_punct": ".”",
+   "before": "But tell me what you see.”",
+   "after": "The woman said, “I see a"
+  },
   "28:14c": {
    "after_punct": "?”",
    "before": "said, “What does he look like?”",
@@ -2191,6 +2218,11 @@
    "after_punct": "?”",
    "before": "the place where dead people go?”",
    "after": "Saul said, “I am in great"
+  },
+  "29:3c": {
+   "after_punct": "!”",
+   "before": "here, marching with us to battle!”",
+   "after": "Achish replied, “Their leader is David."
   },
   "30:8d": {
    "after_punct": "?”",
@@ -2222,31 +2254,5 @@
   "2:8",
   "2:9",
   "15:23"
- ],
- "skipped": [
-  {
-   "ref": "3:8",
-   "marker": "p",
-   "before": "to do whatever you ask.” Then",
-   "after": "Eli realized that it was Yahweh"
-  },
-  {
-   "ref": "23:11",
-   "marker": "p",
-   "before": "Keilah let Saul capture me? Yahweh,",
-   "after": "God of us Israelites, please tell"
-  },
-  {
-   "ref": "28:13",
-   "marker": "p",
-   "before": "me what you see.” The woman",
-   "after": "said, “I see a spirit being"
-  },
-  {
-   "ref": "29:3",
-   "marker": "p",
-   "before": "marching with us to battle!” Achish",
-   "after": "replied, “Their leader is David. He"
-  }
  ]
 }

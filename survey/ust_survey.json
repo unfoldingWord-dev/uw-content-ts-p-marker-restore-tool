@@ -1611,10 +1611,10 @@
   "current_pm": 409,
   "max_ts": 396,
   "baseline": {
-   "sha": "765a0fedde80387dca124dbe445a09a7b58e41bb",
-   "date": "2026-08-17T13:01:48-04:00",
-   "author": "Richard Mahn",
-   "subject": "Reverts BE changes",
+   "sha": "1a42e0b52772f2feab4610f303284e1fd207b58d",
+   "date": "2026-09-23T22:02:05Z",
+   "author": "richmahn",
+   "subject": "Merge auto-richmahn-1SA into master by richmahn (#4728)",
    "ts": 396,
    "pm": 409,
    "dup": false
@@ -1812,7 +1812,7 @@
     "ts": 5
    }
   },
-  "commits_scanned": 64
+  "commits_scanned": 65
  },
  "2SA": {
   "file": "10-2SA.usfm",
