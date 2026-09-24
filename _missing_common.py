@@ -1,4 +1,5 @@
-"""Shared by list_unexplained.py and list_moved.py: check one book against its catalog."""
+"""Shared by list_missing_ts.py, list_unexplained_p_markers.py and list_moved_p_markers.py:
+check one book against its catalog."""
 import argparse
 import json
 import os

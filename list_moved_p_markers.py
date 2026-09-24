@@ -5,7 +5,7 @@ current file but look moved or changed: the verse before/after now has a \\p/\\m
 ("moved to"), or there is a \\q# / other paragraph marker in or around the verse
 ("changed").
 
-Usage: python3 list_moved.py ust zec [--text]
+Usage: python3 list_moved_p_markers.py ust zec [--text]
 """
 from _missing_common import load, verse_text
 

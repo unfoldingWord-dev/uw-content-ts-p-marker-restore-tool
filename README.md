@@ -79,8 +79,8 @@ Every script takes the translation (`ult` or `ust`). Book codes are case-insensi
 |---|---|
 | `python3 check_markers.py [--repo en_ult en_ust] [--book ZEC …]` | Compares every catalog with the current files. Writes `report/missing_report.md` (a summary table) and `report/missing_report.json` (every reference). |
 | `python3 list_missing_ts.py ult 1ti [--text]` | Missing `\ts\*` by chapter, with the catalog's source copy and the commit that last removed them. |
-| `python3 list_unexplained.py ust zec [--text]` | Missing `\p`/`\m` with nothing replacing them. |
-| `python3 list_moved.py ust zec [--text]` | Missing `\p`/`\m` that look moved (a *new* `\p`/`\m` in the verse before or after) or changed (a `\q#` or other paragraph marker in or around the verse). |
+| `python3 list_unexplained_p_markers.py ust zec [--text]` | Missing `\p`/`\m` with nothing replacing them. |
+| `python3 list_moved_p_markers.py ust zec [--text]` | Missing `\p`/`\m` that look moved (a *new* `\p`/`\m` in the verse before or after) or changed (a `\q#` or other paragraph marker in or around the verse). |
 
 `--text` also prints the start of each verse.
 
@@ -123,7 +123,7 @@ python3 restore_missing_pm_markers.py ust zec --severity few --chapters 3 14
 ```
 
 Only **unexplained** losses are restored: nothing moved or changed nearby (see
-`list_moved.py`). Each chapter gets its own severity, because one editor may have
+`list_moved_p_markers.py`). Each chapter gets its own severity, because one editor may have
 ignored paragraphs while another, in the next chapter, moved them on purpose.
 
 | Severity | Rule for the chapter |
@@ -264,7 +264,7 @@ To correct a catalog entry by hand, edit or delete its key in `markers`. Running
 | `survey_history.py` | History scan, BE detection, per-chapter source selection → `survey/` |
 | `build_catalog.py` | Writes `catalog/` (applies `catalog_overrides.json`) |
 | `check_markers.py` | Catalog vs current file → `report/` |
-| `list_missing_ts.py`, `list_unexplained.py`, `list_moved.py` | Per-book listings |
+| `list_missing_ts.py`, `list_unexplained_p_markers.py`, `list_moved_p_markers.py` | Per-book listings |
 | `restore_common.py` | Placement engine shared by the restore scripts |
 | `restore_missing_ts_markers.py`, `restore_missing_pm_markers.py` | Restore scripts |
 | `catalog/` | The catalogs, one per translation and book (132 files) |

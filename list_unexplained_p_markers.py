@@ -4,7 +4,7 @@ List \\p / \\m markers from the catalog that are missing in the current file wit
 nothing replacing them (no \\p/\\m in the verse before/after, no \\q# or other
 paragraph marker in that verse or the verses around it).
 
-Usage: python3 list_unexplained.py ust zec [--text]
+Usage: python3 list_unexplained_p_markers.py ust zec [--text]
 """
 from _missing_common import load, verse_text
 
